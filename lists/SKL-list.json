@@ -48,9 +48,9 @@
         "position": "175"
     },
     {
-        "card_name": "MU02",
+        "card_name": "MU02 Alyka, Bar'rykian Princess",
         "number": 53,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "SKL",
         "rotated": false,
         "position": "177"
@@ -72,9 +72,9 @@
         "position": "181"
     },
     {
-        "card_name": "MG02",
+        "card_name": "MG02 Chak'nul, Essence of Cor-Bask",
         "number": 164,
-        "shape": "normal",
+        "shape": "planeswalker",
         "set": "SKL",
         "rotated": false,
         "position": "183"
@@ -88,7 +88,7 @@
         "position": "139"
     },
     {
-        "card_name": "RU01",
+        "card_name": "RU01 Bar'rykian Oarfish",
         "number": 54,
         "shape": "normal",
         "set": "SKL",
@@ -200,7 +200,7 @@
         "position": "169"
     },
     {
-        "card_name": "RW04",
+        "card_name": "RW04 Favor of the Wilds",
         "number": 20,
         "shape": "normal",
         "set": "SKL",
@@ -240,12 +240,12 @@
         "position": "170"
     },
     {
-        "card_name": "RW05",
+        "card_name": "RW05 Path to Exile",
         "number": 21,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "143"
+        "position": "74"
     },
     {
         "card_name": "RU05",
@@ -344,7 +344,7 @@
         "position": "159"
     },
     {
-        "card_name": "RR07",
+        "card_name": "RR07 Vigor of Cor-Bask",
         "number": 134,
         "shape": "normal",
         "set": "SKL",
@@ -520,12 +520,12 @@
         "position": "128"
     },
     {
-        "card_name": "UW05 Path to Exile",
+        "card_name": "UW05 Gargantuan Dawnwing",
         "number": 28,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "74"
+        "position": "80"
     },
     {
         "card_name": "UU05 Bar'rykkian Coastwing",
@@ -544,12 +544,12 @@
         "position": "101"
     },
     {
-        "card_name": "UR05",
+        "card_name": "UR05 Simple Miscommunication",
         "number": 139,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "115"
+        "position": "122"
     },
     {
         "card_name": "UG05 Heletcha, Oracle of Life",
@@ -560,12 +560,12 @@
         "position": "130"
     },
     {
-        "card_name": "UW06 Klysmatic Protection",
+        "card_name": "UW06 Brilliant Thrust",
         "number": 29,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "75"
+        "position": "143"
     },
     {
         "card_name": "UU06 Sea No Evil",
@@ -584,12 +584,12 @@
         "position": "102"
     },
     {
-        "card_name": "UR06",
+        "card_name": "UR06 Unbridled Assault",
         "number": 140,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "116"
+        "position": "121"
     },
     {
         "card_name": "UG06 Overgrown Ridgeback",
@@ -600,12 +600,12 @@
         "position": "129"
     },
     {
-        "card_name": "UW07",
+        "card_name": "UW07 Klysmatic Protection",
         "number": 30,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "76"
+        "position": "75"
     },
     {
         "card_name": "UU07 Fierce Cunning",
@@ -624,7 +624,7 @@
         "position": "103"
     },
     {
-        "card_name": "UR07",
+        "card_name": "UR07 Elemental Offering",
         "number": 141,
         "shape": "normal",
         "set": "SKL",
@@ -640,15 +640,15 @@
         "position": "131"
     },
     {
-        "card_name": "UW08",
+        "card_name": "UW08 Prophetic Light",
         "number": 31,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "79"
+        "position": "76"
     },
     {
-        "card_name": "UU08",
+        "card_name": "UU08 Bar'ryk Seaform",
         "number": 68,
         "shape": "normal",
         "set": "SKL",
@@ -656,7 +656,7 @@
         "position": "90"
     },
     {
-        "card_name": "UB08",
+        "card_name": "UB08 Miasma",
         "number": 105,
         "shape": "normal",
         "set": "SKL",
@@ -664,7 +664,7 @@
         "position": "104"
     },
     {
-        "card_name": "UR08",
+        "card_name": "UR08 Rekindle Flames",
         "number": 142,
         "shape": "normal",
         "set": "SKL",
@@ -672,7 +672,7 @@
         "position": "118"
     },
     {
-        "card_name": "UG08",
+        "card_name": "UG08 Ritual Strength",
         "number": 179,
         "shape": "normal",
         "set": "SKL",
@@ -680,7 +680,7 @@
         "position": "132"
     },
     {
-        "card_name": "UW09",
+        "card_name": "UW09 The Final Stand",
         "number": 32,
         "shape": "normal",
         "set": "SKL",
@@ -688,7 +688,7 @@
         "position": "78"
     },
     {
-        "card_name": "UU09",
+        "card_name": "UU09 Spiritual Uprising",
         "number": 69,
         "shape": "normal",
         "set": "SKL",
@@ -696,7 +696,7 @@
         "position": "91"
     },
     {
-        "card_name": "UB09",
+        "card_name": "UB09 Trickster's Charm",
         "number": 106,
         "shape": "normal",
         "set": "SKL",
@@ -704,39 +704,39 @@
         "position": "105"
     },
     {
-        "card_name": "UR09",
+        "card_name": "UR09 Magmatic Genesis",
         "number": 143,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "119"
+        "position": "120"
     },
     {
-        "card_name": "UG09",
+        "card_name": "UG09 Ensnaring Charm",
         "number": 180,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "133"
+        "position": "67"
     },
     {
-        "card_name": "UW10 Call the Spirits",
+        "card_name": "UW10 Spiritual Rejuvenation",
         "number": 33,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "77"
+        "position": "79"
     },
     {
-        "card_name": "UU10",
+        "card_name": "UU10 Home of the Lost",
         "number": 70,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "92"
+        "position": "94"
     },
     {
-        "card_name": "UB10",
+        "card_name": "UB10 Edict of Mak",
         "number": 107,
         "shape": "normal",
         "set": "SKL",
@@ -744,15 +744,15 @@
         "position": "106"
     },
     {
-        "card_name": "UR10",
+        "card_name": "UR10 Cathartic Reunion",
         "number": 144,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "120"
+        "position": "119"
     },
     {
-        "card_name": "UG10",
+        "card_name": "UG10 Prey upon the Weak",
         "number": 181,
         "shape": "normal",
         "set": "SKL",
@@ -760,15 +760,15 @@
         "position": "134"
     },
     {
-        "card_name": "UW11",
+        "card_name": "UW11 Call the Spirits",
         "number": 34,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "80"
+        "position": "77"
     },
     {
-        "card_name": "UU11",
+        "card_name": "UU11 From Whence You Came",
         "number": 71,
         "shape": "normal",
         "set": "SKL",
@@ -776,7 +776,7 @@
         "position": "93"
     },
     {
-        "card_name": "UB11",
+        "card_name": "UB11 Befitting Tragedy",
         "number": 108,
         "shape": "normal",
         "set": "SKL",
@@ -784,15 +784,15 @@
         "position": "107"
     },
     {
-        "card_name": "UR11",
+        "card_name": "UR11 Involuntary Immolation",
         "number": 145,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "121"
+        "position": "115"
     },
     {
-        "card_name": "UG11",
+        "card_name": "UG11 Wild Brew",
         "number": 182,
         "shape": "normal",
         "set": "SKL",
@@ -808,15 +808,15 @@
         "position": "81"
     },
     {
-        "card_name": "UU12",
+        "card_name": "UU12 Twenty Thousand Leagues",
         "number": 72,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "94"
+        "position": "92"
     },
     {
-        "card_name": "UB12",
+        "card_name": "UB12 Mind Echoes",
         "number": 109,
         "shape": "normal",
         "set": "SKL",
@@ -824,20 +824,20 @@
         "position": "108"
     },
     {
-        "card_name": "UR12",
+        "card_name": "UR12 Lava Swipe",
         "number": 146,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "122"
+        "position": "116"
     },
     {
-        "card_name": "UG12",
+        "card_name": "UG12 Stampede of Tyrants",
         "number": 183,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "136"
+        "position": "133"
     },
     {
         "card_name": "UW13 Guardian Leyline",
@@ -848,7 +848,7 @@
         "position": "82"
     },
     {
-        "card_name": "UU13",
+        "card_name": "UU13 Grasp of the Goddess",
         "number": 73,
         "shape": "normal",
         "set": "SKL",
@@ -856,7 +856,7 @@
         "position": "95"
     },
     {
-        "card_name": "UB13",
+        "card_name": "UB13 Sacrificial Demesne",
         "number": 110,
         "shape": "normal",
         "set": "SKL",
@@ -864,7 +864,7 @@
         "position": "109"
     },
     {
-        "card_name": "UR13",
+        "card_name": "UR13 Elemental Command",
         "number": 147,
         "shape": "normal",
         "set": "SKL",
@@ -888,7 +888,7 @@
         "position": "83"
     },
     {
-        "card_name": "UU14",
+        "card_name": "UU14 Seafoam Cloaking",
         "number": 74,
         "shape": "normal",
         "set": "SKL",
@@ -896,7 +896,7 @@
         "position": "96"
     },
     {
-        "card_name": "UB14",
+        "card_name": "UB14 Gift of the Bayou Maiden",
         "number": 111,
         "shape": "normal",
         "set": "SKL",
@@ -904,7 +904,7 @@
         "position": "110"
     },
     {
-        "card_name": "UR14",
+        "card_name": "UR14 Foregone Ritual",
         "number": 148,
         "shape": "normal",
         "set": "SKL",
@@ -912,7 +912,7 @@
         "position": "124"
     },
     {
-        "card_name": "UG14",
+        "card_name": "UG14 Cor-Bask Vitality",
         "number": 185,
         "shape": "normal",
         "set": "SKL",
@@ -1392,12 +1392,12 @@
         "position": "53"
     },
     {
-        "card_name": "CG12 Ensnaring Charm",
+        "card_name": "CG12 Collect Specimens",
         "number": 160,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "67"
+        "position": "136"
     },
     {
         "card_name": "CW13 One with the Cosmos",
@@ -1669,16 +1669,16 @@
         "position": "237"
     },
     {
-        "card_name": "UM01 Hellform Crocodile",
-        "number": 227,
+        "card_name": "RM04",
+        "number": 223,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "30"
+        "position": "199"
     },
     {
-        "card_name": "RM04",
-        "number": 222,
+        "card_name": "RM04 Controlled Burn",
+        "number": 224,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
@@ -1686,35 +1686,35 @@
     },
     {
         "card_name": "RM03",
-        "number": 216,
+        "number": 220,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
         "position": "201"
     },
     {
-        "card_name": "CM01 Sentinel Siren",
-        "number": 189,
+        "card_name": "UM02 Vrel, Avatar of Klysma",
+        "number": 235,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "274"
+        "position": "236"
     },
     {
-        "card_name": "UM02 The Will of Whisp",
-        "number": 235,
+        "card_name": "UM02 Gritt, Avatar of Whisp",
+        "number": 232,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
         "position": "238"
     },
     {
-        "card_name": "CM01 Ashen Sorceress",
-        "number": 186,
+        "card_name": "UM01 Hellform Crocodile",
+        "number": 227,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "271"
+        "position": "30"
     },
     {
         "card_name": "UM01 Stampede Charmer",
@@ -1733,36 +1733,36 @@
         "position": "193"
     },
     {
-        "card_name": "CM02 Faewhisp",
-        "number": 193,
+        "card_name": "UM03 Absorb Magic",
+        "number": 236,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "269"
+        "position": "245"
     },
     {
-        "card_name": "CM01 Wandering Kappa",
-        "number": 190,
+        "card_name": "UM03 Spirit Break",
+        "number": 240,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "270"
+        "position": "249"
     },
     {
-        "card_name": "CM02 Infernus Altisaur",
-        "number": 194,
+        "card_name": "UM02 Kriz, Avatar of Ekthar",
+        "number": 234,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "276"
+        "position": "240"
     },
     {
-        "card_name": "CM01 Rageleaf Dragon",
-        "number": 188,
+        "card_name": "UM02 Hork, Avatar of Ryklos",
+        "number": 233,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "272"
+        "position": "242"
     },
     {
         "card_name": "UM01 Sunbreach Griffin",
@@ -1773,7 +1773,92 @@
         "position": "243"
     },
     {
-        "card_name": "e"
+        "card_name": "UM04 Vigor of Champions",
+        "number": 244,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "246"
+    },
+    {
+        "card_name": "UM04 The Will of Whisp",
+        "number": 243,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "248"
+    },
+    {
+        "card_name": "UM03 Enthralling Rebirth",
+        "number": 238,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "251"
+    },
+    {
+        "card_name": "UM03 Reckless Rampage",
+        "number": 239,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "247"
+    },
+    {
+        "card_name": "UM02 Aurum, Avatar of Vivlokar",
+        "number": 231,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "244"
+    },
+    {
+        "card_name": "CM01 Sentinel Siren",
+        "number": 189,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "274"
+    },
+    {
+        "card_name": "CM01 Wandering Kappa",
+        "number": 190,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "270"
+    },
+    {
+        "card_name": "UM04 Kindling",
+        "number": 242,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "250"
+    },
+    {
+        "card_name": "UM04 Herd Tactics",
+        "number": 241,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "252"
+    },
+    {
+        "card_name": "UM03 Act of Grandeur",
+        "number": 237,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "253"
+    },
+    {
+        "card_name": "CM02 Faewhisp",
+        "number": 193,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "269"
     },
     {
         "card_name": "CM02 Bar'ryk Leviathan",
@@ -1784,58 +1869,23 @@
         "position": "275"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "CM02 Cor-bask Rageboar",
-        "number": 192,
+        "card_name": "CM01 Ashen Sorceress",
+        "number": 186,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "277"
+        "position": "271"
     },
     {
-        "card_name": "UM02",
-        "number": 233,
+        "card_name": "CM01 Rageleaf Dragon",
+        "number": 188,
         "shape": "normal",
         "set": "SKL",
         "rotated": false,
-        "position": "244"
+        "position": "272"
     },
     {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UM03",
-        "number": 240,
-        "shape": "normal",
-        "set": "SKL",
-        "rotated": false,
-        "position": "253"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "e"
-    },
-    {
-        "card_name": "UM04",
+        "card_name": "UM04 Winds of Bounty",
         "number": 245,
         "shape": "normal",
         "set": "SKL",
@@ -1849,10 +1899,20 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "CM02 Infernus Altisaur",
+        "number": 194,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "276"
     },
     {
-        "card_name": "e"
+        "card_name": "CM02 Cor-Bask Rageboar",
+        "number": 192,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "277"
     },
     {
         "card_name": "CM01 Fae-Blessed Lyrist",
@@ -2180,6 +2240,22 @@
         "position": "280"
     },
     {
+        "card_name": "Alyka, Bar'rykian Princess",
+        "number": 13,
+        "shape": "token",
+        "set": "SKL",
+        "rotated": false,
+        "position": "288"
+    },
+    {
+        "card_name": "Chak'nul, Essence of Cor-Bask",
+        "number": 14,
+        "shape": "token",
+        "set": "SKL",
+        "rotated": false,
+        "position": "289"
+    },
+    {
         "card_name": "Faerie",
         "number": 2,
         "shape": "token",
@@ -2188,7 +2264,7 @@
         "position": "262"
     },
     {
-        "card_name": "Spirit",
+        "card_name": "Spirit1",
         "number": 3,
         "shape": "token",
         "set": "SKL",
@@ -2196,7 +2272,7 @@
         "position": "283"
     },
     {
-        "card_name": "Elemental",
+        "card_name": "Elemental1",
         "number": 4,
         "shape": "token",
         "set": "SKL",
@@ -2204,7 +2280,7 @@
         "position": "281"
     },
     {
-        "card_name": "Spirit",
+        "card_name": "Spirit2",
         "number": 5,
         "shape": "token",
         "set": "SKL",
@@ -2212,7 +2288,7 @@
         "position": "263"
     },
     {
-        "card_name": "Elemental",
+        "card_name": "Elemental2",
         "number": 6,
         "shape": "token",
         "set": "SKL",
@@ -2220,39 +2296,39 @@
         "position": "279"
     },
     {
-        "card_name": "Elemental",
-        "number": 7,
-        "shape": "token",
-        "set": "SKL",
-        "rotated": false,
-        "position": "261"
-    },
-    {
-        "card_name": "Elemental",
-        "number": 8,
-        "shape": "token",
-        "set": "SKL",
-        "rotated": false,
-        "position": "267"
-    },
-    {
-        "card_name": "Elemental",
-        "number": 9,
-        "shape": "token",
-        "set": "SKL",
-        "rotated": false,
-        "position": "268"
-    },
-    {
         "card_name": "Snake",
-        "number": 10,
+        "number": 7,
         "shape": "token",
         "set": "SKL",
         "rotated": false,
         "position": "265"
     },
     {
-        "card_name": "Spirit",
+        "card_name": "Elemental3",
+        "number": 8,
+        "shape": "token",
+        "set": "SKL",
+        "rotated": false,
+        "position": "261"
+    },
+    {
+        "card_name": "Elemental4",
+        "number": 9,
+        "shape": "token",
+        "set": "SKL",
+        "rotated": false,
+        "position": "267"
+    },
+    {
+        "card_name": "Elemental5",
+        "number": 10,
+        "shape": "token",
+        "set": "SKL",
+        "rotated": false,
+        "position": "268"
+    },
+    {
+        "card_name": "Spirit3",
         "number": 11,
         "shape": "token",
         "set": "SKL",
@@ -2263,7 +2339,49 @@
         "card_name": "e"
     },
     {
-        "card_name": "e"
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    {
+        "card_name": "er"
+    },
+    "a->masterpiece",
+    {
+        "card_name": "Mulldrifter",
+        "number": 1,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "284"
+    },
+    {
+        "card_name": "Shriekmaw",
+        "number": 2,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "285"
+    },
+    {
+        "card_name": "Avenger of Zendikar",
+        "number": 3,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "286"
+    },
+    {
+        "card_name": "Omnath, Locus of the Roil",
+        "number": 4,
+        "shape": "normal",
+        "set": "SKL",
+        "rotated": false,
+        "position": "287"
     },
     {
         "card_name": "e"

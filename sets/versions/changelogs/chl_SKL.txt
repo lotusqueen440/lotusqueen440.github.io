@@ -1,4 +1,264 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+UG09 Ensnaring Charm added.
+RW05 Path to Exile added.
+UW07 Klysmatic Protection added.
+UW08 Prophetic Light added.
+UW11 Call the Spirits added.
+UW09 The Final Stand added.
+UW10 Spiritual Rejuvenation added.
+UW05 Gargantuan Dawnwing added.
+UU08 Bar'ryk Seaform added.
+UU09 Spiritual Uprising added.
+UU12 Twenty Thousand Leagues added.
+UU11 From Whence You Came added.
+UU10 Home of the Lost added.
+UU13 Grasp of the Goddess added.
+UU14 Seafoam Cloaking added.
+UB08 Miasma added.
+UB09 Trickster's Charm added.
+UB10 Edict of Mak added.
+UB11 Befitting Tragedy added.
+UB12 Mind Echoes added.
+UB13 Sacrificial Demesne added.
+UB14 Gift of the Bayou Maiden added.
+UR11 Involuntary Immolation added.
+UR12 Lava Swipe added.
+UR07 Elemental Offering added.
+UR08 Rekindle Flames added.
+UR10 Cathartic Reunion added.
+UR09 Magmatic Genesis added.
+UR06 Unbridled Assault added.
+UR05 Simple Miscommunication added.
+UR13 Elemental Command added.
+UR14 Foregone Ritual added.
+UG08 Ritual Strength added.
+UG12 Stampede of Tyrants added.
+UG10 Prey upon the Weak added.
+UG11 Wild Brew added.
+CG12 Collect Specimens added.
+UG14 Cor-Bask Vitality added.
+RW04 Favor of the Wilds added.
+UW06 Brilliant Thrust added.
+RU01 Bar'rykian Oarfish added.
+RR07 Vigor of Cor-Bask added.
+MU02 Alyka, Bar'rykian Princess added.
+MG02 Chak'nul, Essence of Cor-Bask added.
+RM04 Controlled Burn added.
+UM02 Vrel, Avatar of Klysma added.
+UM02 Gritt, Avatar of Whisp added.
+UM02 Kriz, Avatar of Ekthar added.
+UM02 Hork, Avatar of Ryklos added.
+UM02 Aurum, Avatar of Vivlokar added.
+UM03 Absorb Magic added.
+UM04 Vigor of Champions added.
+UM03 Reckless Rampage added.
+UM04 The Will of Whisp added.
+UM03 Spirit Break added.
+UM04 Kindling added.
+UM03 Enthralling Rebirth added.
+UM04 Herd Tactics added.
+UM03 Act of Grandeur added.
+UM04 Winds of Bounty added.
+Elemental3 added.
+Spirit2 added.
+Spirit3 added.
+Elemental4 added.
+Elemental5 added.
+CM02 Cor-Bask Rageboar added.
+Elemental2 added.
+Elemental1 added.
+Spirit1 added.
+Mulldrifter added.
+Shriekmaw added.
+Avenger of Zendikar added.
+Omnath, Locus of the Roil added.
+Alyka, Bar'rykian Princess added.
+Chak'nul, Essence of Cor-Bask added.
+
+CG12 Ensnaring Charm removed.
+UW05 Path to Exile removed.
+UW06 Klysmatic Protection removed.
+UW07 removed.
+UW10 Call the Spirits removed.
+UW09 removed.
+UW08 removed.
+UW11 removed.
+UU08 removed.
+UU09 removed.
+UU10 removed.
+UU11 removed.
+UU12 removed.
+UU13 removed.
+UU14 removed.
+UB08 removed.
+UB09 removed.
+UB10 removed.
+UB11 removed.
+UB12 removed.
+UB13 removed.
+UB14 removed.
+UR05 removed.
+UR06 removed.
+UR07 removed.
+UR08 removed.
+UR09 removed.
+UR10 removed.
+UR11 removed.
+UR12 removed.
+UR13 removed.
+UR14 removed.
+UG08 removed.
+UG09 removed.
+UG10 removed.
+UG11 removed.
+UG12 removed.
+UG14 removed.
+RW04 removed.
+RW05 removed.
+RU01 removed.
+RR07 removed.
+MU02 removed.
+MG02 removed.
+RM04 removed.
+UM02 removed.
+UM02 The Will of Whisp removed.
+UM02 removed.
+UM02 removed.
+UM02 removed.
+UM03 removed.
+UM04 removed.
+UM03 removed.
+UM04 removed.
+UM03 removed.
+UM04 removed.
+UM03 removed.
+UM04 removed.
+UM03 removed.
+UM04 removed.
+Elemental removed.
+Spirit removed.
+Spirit removed.
+Elemental removed.
+Elemental removed.
+CM02 Cor-bask Rageboar removed.
+Elemental removed.
+Elemental removed.
+Spirit removed.
+
+CW04 Twinspirit Faeries
+
+CW02 Crystalline Guardian
+
+CW01 Watchful Crane
+
+CW06 Ivory Griffonrider
+
+CW05 Aerial Assault Unit
+
+CW03 Heralded Captain
+
+CU11 Stray from the Group
+
+UM01 Hellform Crocodile
+rules_text: When this creature enters, create a 1/1 black and red Elemental creature token.
+Sacrifice three Elementals: Return target creature with mana value 3 or less from your graveyard to the battlefield tapped. => Menace
+Whenever this or another nontoken creature you control enters, create a 1/1 black and red Elemental creature token.
+
+CB02 Shadecrow Rooster
+cost: {1}{B} => {2}{B}
+
+CB12 Essence Siphon
+
+CR01 Golden Phoenix
+
+CR03 Pyromantic Peafowl
+rules_text: Whenever you cast an instant or sorcery spell, this creature deals 1 damage to any target.
+{R}{R}, Sacrifice an Elemental: Return this creature from the graveyard to the battlefield tapped. => Whenever you cast an instant or sorcery spell, this creature deals 1 damage to target player.
+{R}{R}, Sacrifice an Elemental: Return this creature from the graveyard to the battlefield tapped.
+
+CR04 Kindled-Spirit Wolf
+
+CR05 Infernal Dragonkin
+
+CR07 Pyretic Flash
+cost: {1}{R} => {2}{R}
+
+CR08 Phoenix Crash
+
+CR11 Stoke the Blazes
+
+CR12 Flamebreath
+
+CG06 Fungal Titan
+rules_text: [i]Stampede[/i] — When this creature attacks, defending player may sacrifice a nonland permanent. If they don't, This creature gains trample until end of turn. => [i]Stampede[/i] — When this creature attacks, defending player may sacrifice a nonland permanent. If they don't, this creature gains trample until end of turn.
+
+CG09 Shield of Lilies
+rules_text: Gain 3 life.
+Target creature you control gets +0/+X where X is the amount of life you've gained this turn. => You gain 3 life.
+Target creature you control gets +0/+X where X is the amount of life you gained this turn.
+
+UU06 Sea No Evil
+
+UB04 Mak Rutan, Cardinal of Sin
+rules_text: Whenever another creature dies, each opponent loses 1 life and you gain 1 life.
+{B}{B}, {T}, Exile a creature you control: You draw two cards and lose 2 life. => Whenever another creature dies, each opponent loses 1 life and you gain 1 life.
+{B}{B}, {T}, Sacrifice a creature: You draw two cards and lose 2 life.
+
+UB05 Crow-keeper Wraith
+
+UR04 Vecthros, Tyrant of Riches
+
+RW02
+rules_text: Kindled [i](Whenever you sacrifice a permanent, this creature gets +1/+0 until end of turn.)[/i] => 
+
+RB01
+
+RM01 Spirit Rider
+
+RM01 Magma Viper
+
+RM02 Ol'grak, Living Forest
+
+MM01 Whisp, Lone Wanderer
+
+MM01 Ryklos, Stampeding Tyrant
+rules_text: Trample
+[i]Stampede[/i] — When Ryklos attacks, defending player may sacrifice a nonland permanent. If they don't, put two +1/+1 counters on Ryklos.
+When Ryklos dies, if it had at least twelve counters on it, search your library for a creature card with power 8 or less and put it onto the battlefield, then shuffle. => Trample
+[i]Stampede[/i] — Whenever Ryklos attacks, defending player may sacrifice a nonland permanent. If they don't, put two +1/+1 counters on Ryklos.
+At the beginning of your second main phase, if no permanents were sacrificed during your combat phase, untap Ryklos. After this phase, there is an additional combat phase followed by an additional main phase. This ability triggers only once each turn.
+
+MM01 Vivlokar, Brush Drake
+
+MM02 Blessing of the Stampede Tyrant
+
+MM02 Blessing of the Sea's Essence
+
+UM01 Stormghast Colossus
+
+CB04 Ferocidon Apparition
+
+UM01 Stampede Charmer
+rules_text: {T}: Add {R}{G}.
+Whenever two or more creatures you control attack, target attacking creature you control gains trample until end of turn. => {T}: Add {R}{G}.
+Whenever two or more creatures you control attack, creatures target player controls can't be sacrificed until end of turn.
+
+Ashes
+
+Snake
+
+CM02 Bar'ryk Leviathan
+rules_text: When this creature enters, target player reveals their hand. You choose a nonland card from it. That player discards that card. You lose 2 life. => When this creature enters, target player discards two cards. Put a +1/+1 counter on this creature for each land card discarded this way.
+
+CM02 Infernus Altisaur
+type: Creature — Elemental Dinosaur => Creature — Dinosaur Elemental
+
+UU05 Bar'rykkian Coastwing
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
