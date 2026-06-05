@@ -1,4 +1,133 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+UW13 Battle Preparations added.
+RW01 Vital Shimmerwing added.
+RW03 Proud Sailback added.
+RB01 Fen Lurker added.
+RG03 Cor-Bask Herdcaller added.
+MB02 Xrk, The Antlered One added.
+RM04 Seal Away added.
+RM04 Portal to Yesterday added.
+RM04 Reborn from Ash added.
+UA05 Quickstrike Dagger added.
+Elemental6 added.
+UA04 Worn Rapier added.
+UA03 Arcane Greataxe added.
+RA02 Armory of Many Blades added.
+CA02 Staff of Life added.
+RA01 Crackling Battle Standard added.
+MA01 Kyrtallian, Blade of Sokleth added.
+Weapon added.
+Xrk, The Antlered One added.
+
+UW13 Guardian Leyline removed.
+RW01 removed.
+RW03 removed.
+RB01 removed.
+RG03 removed.
+MB02 removed.
+RM04 removed.
+RM04 removed.
+RM04 removed.
+CA02 Quickstrike Dagger removed.
+
+CW07 Fae Bloomtender
+rules_text: Flying
+Whenever another creature enters, you may gain 1 life. => Flying
+Whenever a player casts a creature spell, you may gain 1 life.
+
+UW02 Glitterwing Dragoons
+rules_text: Whenever this creature attacks, creatures you control get +1/+1 until end of turn. => Whenever this creature attacks, create a Weapon token and attach it to target creature you control. [i](It's an Equipment with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+
+UU03 Azure Corps Blademaster
+rules_text: Whenever this creature deals combat damage to a player, draw a card. If this creature was modified, draw two cards instead. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Whenever this creature deals combat damage to a player, draw a card.
+{3}: Create a Weapon token. [i](It's an Equipment with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+
+UR05 Simple Miscommunication
+rules_text: Simple Miscommunication deals 5 damage to target creature. If that creature would die this turn, exile it instead and create a 0/2 colorless Elemental creature token named Ashes. => Simple Miscommunication deals 5 damage to target creature. If that creature would die this turn, exile it instead and its controller creates a 0/2 colorless Elemental creature token named Ashes.
+
+CG13 Nature's Wisdom
+rules_text: When this enchantment enters and whenever a creature you control deals combat damage to a player, scry 1 and gain 2 life. => When this enchantment enters and whenever one or more creatures you control deal combat damage to a player, scry 1 and gain 2 life.
+
+UW06 Brilliant Thrust
+rules_text: Destroy target creature. Its controller gains life equal to the destroyed creature's toughness. => Destroy target creature. Its controller gains life equal to its toughness.
+
+MG02 Chak'nul, Essence of Cor-Bask
+rules_text: [+2]: Gain 2 life.
+[-3]: Creatures you control get +3/+3 and gain trample until end of turn.
+[-8]: You get an emblem with “Whenever you gain life, draw a card and put a +1/+1 counter on target creature you control.” => [+2]: Create a 2/2 green Elemental creature token.
+[-3]: Put a +1/+1 counter on target creature you control. It fights target creature you don't control.
+[-8]: You gain 3 life for each creature you control and get an emblem with “Creatures you control get +3/+3 and have trample.”
+special_text: [+2]: Gain 2 life.
+[-3]: Creatures you control get +3/+3 and gain trample until end of turn.
+[-8]: You get an emblem with “Whenever you gain life, draw a card and put a +1/+1 counter on target creature you control.” => [+2]: Create a 2/2 green Elemental creature token.
+[-3]: Put a +1/+1 counter on target creature you control. It fights target creature you don't control.
+[-8]: You gain 3 life for each creature you control and get an emblem with “Creatures you control get +3/+3 and have trample.”
+
+RM03
+type: Instant => Sorcery
+cost: {U}{B} => {W}{U}
+
+RM03
+cost: {B}{R} => {U}{B}
+
+RM03
+cost: {R}{G} => {B}{R}
+
+RM03
+cost: {W}{U} => {R}{G}
+
+UA02 Revalation Blade
+rules_text: Equipped creature gets +2/+1 and has first strike.
+Equip {2} => Equipped creature gets +2/+1 and has vigilance.
+Equip {2}
+
+RL03 Altar of the Phoenix
+rules_text: [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped.
+{2}{B}{R}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land. => [i]({T}: Add {B} or {R}.)[/i]
+This land enters tapped.
+{2}{B}{R}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land.
+Whenever this land attacks, discard two cards, then for each card discarded this way, draw a card.
+
+RL05 Cathedral of Damnation
+rules_text: [i]({T}: Add {U} or {B}.)[/i]
+This land enters tapped.
+{2}{U}{B}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land. => [i]({T}: Add {U} or {B}.)[/i]
+This land enters tapped.
+{2}{U}{B}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land.
+Whenever this land attacks, surveil 2 and draw a card.
+
+RL02 Vast Countryside
+rules_text: [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped.
+{2}{G}{W}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land. => [i]({T}: Add {G} or {W}.)[/i]
+This land enters tapped.
+{2}{G}{W}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land.
+Whenever this land attacks, put a +1/+1 counter on another target creature you control and you gain 2 life.
+
+RL04 Briarthorn Ravine
+rules_text: [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped.
+{2}{R}{G}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land. => [i]({T}: Add {R} or {G}.)[/i]
+This land enters tapped.
+{2}{R}{G}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land.
+Whenever this land attacks, put a trample counter on each of up to two other creatures you control.
+
+RL01 Chosen Sea
+rules_text: [i]({T}: Add {W} or {U}.)[/i]
+This land enters tapped.
+{2}{W}{U}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land. => [i]({T}: Add {W} or {U}.)[/i]
+This land enters tapped.
+{2}{W}{U}: This land becomes a 4/4 Elemental creature until end of turn. It's still a land.
+Whenever this land attacks, create a Weapon token and attach it to another target creature you control.
+
+Chak'nul, Essence of Cor-Bask
+rules_text: Whenever you gain life, draw a card and put a +1/+1 counter on target creature you control. => Creatures you control get +3/+3 and have trample.
+
+
+VERSION 3 CHANGELOG
 ====================
 
 No changes.

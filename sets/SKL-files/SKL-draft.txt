@@ -821,7 +821,7 @@
 			}
 		},
 		{
-			"name": "UW13 Guardian Leyline",
+			"name": "UW13 Battle Preparations",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}",
 			"type": "Enchantment",
@@ -1391,10 +1391,10 @@
 			}
 		},
 		{
-			"name": "RW01",
+			"name": "RW01 Vital Shimmerwing",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{W}{W}",
+			"type": "Creature — Dinosaur Bird",
 			"collector_number": "17",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/139.png"
@@ -1411,10 +1411,10 @@
 			}
 		},
 		{
-			"name": "RW03",
+			"name": "RW03 Proud Sailback",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Creature — Dinosaur",
 			"collector_number": "19",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/141.png"
@@ -1531,10 +1531,10 @@
 			}
 		},
 		{
-			"name": "RB01",
+			"name": "RB01 Fen Lurker",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Serpent",
 			"collector_number": "91",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/153.png"
@@ -1691,10 +1691,10 @@
 			}
 		},
 		{
-			"name": "RG03",
+			"name": "RG03 Cor-Bask Herdcaller",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Creature — Dinosaur",
 			"collector_number": "167",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/169.png"
@@ -1791,10 +1791,10 @@
 			}
 		},
 		{
-			"name": "MB02",
+			"name": "MB02 Xrk, The Antlered One",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Instant",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Legendary Planeswalker — Xrk",
 			"collector_number": "90",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/179.png"
@@ -1851,11 +1851,11 @@
 			}
 		},
 		{
-			"name": "RM04",
+			"name": "RM03",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Sorcery",
-			"collector_number": "221",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/185.png"
 			}
@@ -1875,7 +1875,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Instant",
-			"collector_number": "216",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/187.png"
 			}
@@ -1895,7 +1895,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{R}",
 			"type": "Instant",
-			"collector_number": "219",
+			"collector_number": "217",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/189.png"
 			}
@@ -1915,7 +1915,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{G}",
 			"type": "Instant",
-			"collector_number": "218",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/191.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "225",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/193.png"
 			}
@@ -1951,11 +1951,11 @@
 			}
 		},
 		{
-			"name": "RM03",
+			"name": "RM04 Seal Away",
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "217",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/195.png"
 			}
@@ -1971,11 +1971,11 @@
 			}
 		},
 		{
-			"name": "RM04",
+			"name": "RM04 Portal to Yesterday",
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "222",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/197.png"
 			}
@@ -1991,11 +1991,11 @@
 			}
 		},
 		{
-			"name": "RM04",
+			"name": "RM04 Reborn from Ash",
 			"rarity": "rare",
-			"mana_cost": "{B}{R}",
+			"mana_cost": "{3}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/199.png"
 			}
@@ -2015,7 +2015,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Instant",
-			"collector_number": "220",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/201.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "224",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/203.png"
 			}
@@ -2171,11 +2171,11 @@
 			}
 		},
 		{
-			"name": "CA02 Quickstrike Dagger",
-			"rarity": "common",
+			"name": "UA05 Quickstrike Dagger",
+			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "247",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/217.png"
 			}
@@ -2195,7 +2195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "251",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/219.png"
 			}
@@ -2205,7 +2205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "252",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/220.png"
 			}
@@ -2215,7 +2215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "253",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/221.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "254",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/222.png"
 			}
@@ -2235,7 +2235,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "255",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/223.png"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "256",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/224.png"
 			}
@@ -2255,7 +2255,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "257",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/225.png"
 			}
@@ -2265,7 +2265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "264",
+			"collector_number": "270",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/226.png"
 			}
@@ -2275,7 +2275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "266",
+			"collector_number": "272",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/227.png"
 			}
@@ -2285,7 +2285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "269",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/228.png"
 			}
@@ -2295,7 +2295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "267",
+			"collector_number": "273",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/229.png"
 			}
@@ -2305,7 +2305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "265",
+			"collector_number": "271",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/230.png"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "260",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/231.png"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "262",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/232.png"
 			}
@@ -2335,7 +2335,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "259",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/233.png"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "261",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/234.png"
 			}
@@ -2565,7 +2565,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Plains",
-			"collector_number": "268",
+			"collector_number": "274",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/256.png"
 			}
@@ -2575,7 +2575,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Island",
-			"collector_number": "269",
+			"collector_number": "275",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/257.png"
 			}
@@ -2585,7 +2585,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Swamp",
-			"collector_number": "270",
+			"collector_number": "276",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/258.png"
 			}
@@ -2595,7 +2595,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Mountain",
-			"collector_number": "271",
+			"collector_number": "277",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/259.png"
 			}
@@ -2605,7 +2605,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Basic Land — Forest",
-			"collector_number": "272",
+			"collector_number": "278",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/260.png"
 			}
@@ -2615,7 +2615,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "8",
+			"collector_number": "9",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/261.png"
 			}
@@ -2645,7 +2645,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Spirit",
-			"collector_number": "11",
+			"collector_number": "12",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/264.png"
 			}
@@ -2655,7 +2655,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Snake",
-			"collector_number": "7",
+			"collector_number": "8",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/265.png"
 			}
@@ -2665,7 +2665,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "258",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/266.png"
 			}
@@ -2675,7 +2675,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "9",
+			"collector_number": "10",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/267.png"
 			}
@@ -2685,7 +2685,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Elemental",
-			"collector_number": "10",
+			"collector_number": "11",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/268.png"
 			}
@@ -2805,7 +2805,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Treasure",
-			"collector_number": "12",
+			"collector_number": "13",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/280.png"
 			}
@@ -2885,7 +2885,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "13",
+			"collector_number": "15",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/288.png"
 			}
@@ -2895,18 +2895,108 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Emblem",
-			"collector_number": "14",
+			"collector_number": "16",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/289.png"
+			}
+		},
+		{
+			"name": "Elemental6",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Creature — Elemental",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/290.png"
+			}
+		},
+		{
+			"name": "UA04 Worn Rapier",
+			"rarity": "uncommon",
+			"mana_cost": "{3}",
+			"type": "Artifact — Equipment",
+			"collector_number": "257",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/291.png"
+			}
+		},
+		{
+			"name": "UA03 Arcane Greataxe",
+			"rarity": "uncommon",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "256",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/292.png"
+			}
+		},
+		{
+			"name": "RA02 Armory of Many Blades",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact",
+			"collector_number": "253",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/293.png"
+			}
+		},
+		{
+			"name": "CA02 Staff of Life",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact — Equipment",
+			"collector_number": "247",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/294.png"
+			}
+		},
+		{
+			"name": "RA01 Crackling Battle Standard",
+			"rarity": "rare",
+			"mana_cost": "{4}",
+			"type": "Artifact — Equipment",
+			"collector_number": "252",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/295.png"
+			}
+		},
+		{
+			"name": "MA01 Kyrtallian, Blade of Sokleth",
+			"rarity": "mythic",
+			"mana_cost": "{5}",
+			"type": "Legendary Artifact — Equipment",
+			"collector_number": "251",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/296.png"
+			}
+		},
+		{
+			"name": "Weapon",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/297.png"
+			}
+		},
+		{
+			"name": "Xrk, The Antlered One",
+			"rarity": "common",
+			"mana_cost": "",
+			"type": "Emblem",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/298.png"
 			}
 		}
 	]
 
 [rare(1)]
 	2 RW05 Path to Exile
-	2 RW01
+	2 RW01 Vital Shimmerwing
 	2 RW02
-	2 RW03
+	2 RW03 Proud Sailback
 	2 RW04 Favor of the Wilds
 	2 RW06
 	2 RW07
@@ -2917,7 +3007,7 @@
 	2 RU05
 	2 RU06
 	2 RU07
-	2 RB01
+	2 RB01 Fen Lurker
 	2 RB02
 	2 RB03
 	2 RB04
@@ -2933,7 +3023,7 @@
 	2 RR07 Vigor of Cor-Bask
 	2 RG01
 	2 RG02
-	2 RG03
+	2 RG03 Cor-Bask Herdcaller
 	2 RG04
 	2 RG05
 	2 RG06
@@ -2943,13 +3033,13 @@
 	1 MU01
 	1 MU02 Alyka, Bar'rykian Princess
 	1 MB01
-	1 MB02
+	1 MB02 Xrk, The Antlered One
 	1 MR01
 	1 MR02
 	1 MG01
 	1 MG02 Chak'nul, Essence of Cor-Bask
 	2 RM02 The Abhorrent One
-	2 RM04
+	2 RM03
 	2 RM01 Spirit Rider
 	2 RM03
 	2 RM02 Lyth, Kindleborn Phoenix
@@ -2959,11 +3049,11 @@
 	2 RM01 Faestone Tortoise
 	2 RM04 Manasynth Wave
 	2 RM02 Thaskar, Rage of the Sea
-	2 RM03
+	2 RM04 Seal Away
 	2 RM02 Ikthyll, Duchess of Cor-Bask
-	2 RM04
+	2 RM04 Portal to Yesterday
 	2 RM01 Magma Viper
-	2 RM04
+	2 RM04 Reborn from Ash
 	2 RM01 Mounted Merfolk
 	2 RM03
 	2 RM02 Ol'grak, Living Forest
@@ -2983,6 +3073,9 @@
 	2 RL02 Vast Countryside
 	2 RL04 Briarthorn Ravine
 	2 RL01 Chosen Sea
+	2 RA02 Armory of Many Blades
+	2 RA01 Crackling Battle Standard
+	1 MA01 Kyrtallian, Blade of Sokleth
 [uncommon(3)]
 	4 UM01 Hellform Crocodile
 	4 UG09 Ensnaring Charm
@@ -2998,7 +3091,7 @@
 	4 UW10 Spiritual Rejuvenation
 	4 UW05 Gargantuan Dawnwing
 	4 UW12 Binding Sun
-	4 UW13 Guardian Leyline
+	4 UW13 Battle Preparations
 	4 UW14 Leyline Channeling
 	4 UU01 Bar'rykkian Roughrapids
 	4 UU02 Azure Corps Pikeman
@@ -3054,6 +3147,7 @@
 	4 UG11 Wild Brew
 	4 UG14 Cor-Bask Vitality
 	4 UW06 Brilliant Thrust
+	4 UA05 Quickstrike Dagger
 	4 UA01 Jeweled Lens
 	4 UA02 Revalation Blade
 	4 UL02 Verdant Prairie
@@ -3081,6 +3175,8 @@
 	4 UM03 Act of Grandeur
 	4 UM04 Winds of Bounty
 	4 UU05 Bar'rykkian Coastwing
+	4 UA04 Worn Rapier
+	4 UA03 Arcane Greataxe
 [common(6)]
 	8 CW04 Twinspirit Faeries
 	8 CW02 Crystalline Guardian
@@ -3154,7 +3250,6 @@
 	8 CA01 Heroic Catapult
 	8 CA05 Rejuvination Buddy
 	8 CA03 Etched Scythe
-	8 CA02 Quickstrike Dagger
 	8 CA04 Surveyor Golem
 	8 CL01 Calm-Shores Passage
 	8 CL02 Steady-Climb Passage
@@ -3172,6 +3267,7 @@
 	8 CM02 Infernus Altisaur
 	8 CM02 Cor-Bask Rageboar
 	8 CM01 Fae-Blessed Lyrist
+	8 CA02 Staff of Life
 [common | masterpiece(1)]
 	8 CW04 Twinspirit Faeries
 	8 CW02 Crystalline Guardian
@@ -3245,7 +3341,6 @@
 	8 CA01 Heroic Catapult
 	8 CA05 Rejuvination Buddy
 	8 CA03 Etched Scythe
-	8 CA02 Quickstrike Dagger
 	8 CA04 Surveyor Golem
 	8 CL01 Calm-Shores Passage
 	8 CL02 Steady-Climb Passage
@@ -3267,6 +3362,7 @@
 	3 Shriekmaw
 	3 Avenger of Zendikar
 	3 Omnath, Locus of the Roil
+	8 CA02 Staff of Life
 [foil(1)]
 	12 CW04 Twinspirit Faeries
 	12 CW02 Crystalline Guardian
@@ -3350,7 +3446,7 @@
 	6 UW10 Spiritual Rejuvenation
 	6 UW05 Gargantuan Dawnwing
 	6 UW12 Binding Sun
-	6 UW13 Guardian Leyline
+	6 UW13 Battle Preparations
 	6 UW14 Leyline Channeling
 	6 UU01 Bar'rykkian Roughrapids
 	6 UU02 Azure Corps Pikeman
@@ -3407,9 +3503,9 @@
 	12 CG12 Collect Specimens
 	12 CG13 Nature's Wisdom
 	6 UG14 Cor-Bask Vitality
-	2 RW01
+	2 RW01 Vital Shimmerwing
 	2 RW02
-	2 RW03
+	2 RW03 Proud Sailback
 	2 RW04 Favor of the Wilds
 	6 UW06 Brilliant Thrust
 	2 RW06
@@ -3421,7 +3517,7 @@
 	2 RU05
 	2 RU06
 	2 RU07
-	2 RB01
+	2 RB01 Fen Lurker
 	2 RB02
 	2 RB03
 	2 RB04
@@ -3437,7 +3533,7 @@
 	2 RR07 Vigor of Cor-Bask
 	2 RG01
 	2 RG02
-	2 RG03
+	2 RG03 Cor-Bask Herdcaller
 	2 RG04
 	2 RG05
 	2 RG06
@@ -3447,13 +3543,13 @@
 	1 MU01
 	1 MU02 Alyka, Bar'rykian Princess
 	1 MB01
-	1 MB02
+	1 MB02 Xrk, The Antlered One
 	1 MR01
 	1 MR02
 	1 MG01
 	1 MG02 Chak'nul, Essence of Cor-Bask
 	2 RM02 The Abhorrent One
-	2 RM04
+	2 RM03
 	2 RM01 Spirit Rider
 	2 RM03
 	2 RM02 Lyth, Kindleborn Phoenix
@@ -3463,11 +3559,11 @@
 	2 RM01 Faestone Tortoise
 	2 RM04 Manasynth Wave
 	2 RM02 Thaskar, Rage of the Sea
-	2 RM03
+	2 RM04 Seal Away
 	2 RM02 Ikthyll, Duchess of Cor-Bask
-	2 RM04
+	2 RM04 Portal to Yesterday
 	2 RM01 Magma Viper
-	2 RM04
+	2 RM04 Reborn from Ash
 	2 RM01 Mounted Merfolk
 	2 RM03
 	2 RM02 Ol'grak, Living Forest
@@ -3485,7 +3581,7 @@
 	12 CA01 Heroic Catapult
 	12 CA05 Rejuvination Buddy
 	12 CA03 Etched Scythe
-	12 CA02 Quickstrike Dagger
+	6 UA05 Quickstrike Dagger
 	12 CA04 Surveyor Golem
 	6 UA01 Jeweled Lens
 	6 UA02 Revalation Blade
@@ -3535,6 +3631,12 @@
 	12 CM02 Cor-Bask Rageboar
 	12 CM01 Fae-Blessed Lyrist
 	6 UU05 Bar'rykkian Coastwing
+	6 UA04 Worn Rapier
+	6 UA03 Arcane Greataxe
+	2 RA02 Armory of Many Blades
+	12 CA02 Staff of Life
+	2 RA01 Crackling Battle Standard
+	1 MA01 Kyrtallian, Blade of Sokleth
 [wildcard(1)]
 	6 CW04 Twinspirit Faeries
 	6 CW02 Crystalline Guardian
@@ -3618,7 +3720,7 @@
 	15 UW10 Spiritual Rejuvenation
 	15 UW05 Gargantuan Dawnwing
 	15 UW12 Binding Sun
-	15 UW13 Guardian Leyline
+	15 UW13 Battle Preparations
 	15 UW14 Leyline Channeling
 	15 UU01 Bar'rykkian Roughrapids
 	15 UU02 Azure Corps Pikeman
@@ -3675,9 +3777,9 @@
 	6 CG12 Collect Specimens
 	6 CG13 Nature's Wisdom
 	15 UG14 Cor-Bask Vitality
-	7 RW01
+	7 RW01 Vital Shimmerwing
 	7 RW02
-	7 RW03
+	7 RW03 Proud Sailback
 	7 RW04 Favor of the Wilds
 	15 UW06 Brilliant Thrust
 	7 RW06
@@ -3689,7 +3791,7 @@
 	7 RU05
 	7 RU06
 	7 RU07
-	7 RB01
+	7 RB01 Fen Lurker
 	7 RB02
 	7 RB03
 	7 RB04
@@ -3705,7 +3807,7 @@
 	7 RR07 Vigor of Cor-Bask
 	7 RG01
 	7 RG02
-	7 RG03
+	7 RG03 Cor-Bask Herdcaller
 	7 RG04
 	7 RG05
 	7 RG06
@@ -3715,13 +3817,13 @@
 	4 MU01
 	4 MU02 Alyka, Bar'rykian Princess
 	4 MB01
-	4 MB02
+	4 MB02 Xrk, The Antlered One
 	4 MR01
 	4 MR02
 	4 MG01
 	4 MG02 Chak'nul, Essence of Cor-Bask
 	7 RM02 The Abhorrent One
-	7 RM04
+	7 RM03
 	7 RM01 Spirit Rider
 	7 RM03
 	7 RM02 Lyth, Kindleborn Phoenix
@@ -3731,11 +3833,11 @@
 	7 RM01 Faestone Tortoise
 	7 RM04 Manasynth Wave
 	7 RM02 Thaskar, Rage of the Sea
-	7 RM03
+	7 RM04 Seal Away
 	7 RM02 Ikthyll, Duchess of Cor-Bask
-	7 RM04
+	7 RM04 Portal to Yesterday
 	7 RM01 Magma Viper
-	7 RM04
+	7 RM04 Reborn from Ash
 	7 RM01 Mounted Merfolk
 	7 RM03
 	7 RM02 Ol'grak, Living Forest
@@ -3753,7 +3855,7 @@
 	6 CA01 Heroic Catapult
 	6 CA05 Rejuvination Buddy
 	6 CA03 Etched Scythe
-	6 CA02 Quickstrike Dagger
+	15 UA05 Quickstrike Dagger
 	6 CA04 Surveyor Golem
 	15 UA01 Jeweled Lens
 	15 UA02 Revalation Blade
@@ -3803,3 +3905,9 @@
 	6 CM02 Cor-Bask Rageboar
 	6 CM01 Fae-Blessed Lyrist
 	15 UU05 Bar'rykkian Coastwing
+	15 UA04 Worn Rapier
+	15 UA03 Arcane Greataxe
+	7 RA02 Armory of Many Blades
+	6 CA02 Staff of Life
+	7 RA01 Crackling Battle Standard
+	4 MA01 Kyrtallian, Blade of Sokleth

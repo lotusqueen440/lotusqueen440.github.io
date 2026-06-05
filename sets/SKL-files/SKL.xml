@@ -5,7 +5,7 @@
 			<name>SKL</name>
 			<longname>Sokleth — Mysteries of the Elements</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-06-03</releasedate>
+			<releasedate>2026-06-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -121,7 +121,7 @@ Infusion — When this creature enters, if you gained life this turn, you may re
 		<card>
 			<name>CW07 Fae Bloomtender</name>
 			<text>Flying
-Whenever another creature enters, you may gain 1 life.</text>
+Whenever a player casts a creature spell, you may gain 1 life.</text>
 			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/6.png" num="7">SKL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1252,7 +1252,7 @@ Infusion — This creature gets +2/+0 as long as you gained life this turn.</tex
 		</card>
 		<card>
 			<name>UW02 Glitterwing Dragoons</name>
-			<text>Whenever this creature attacks, creatures you control get +1/+1 until end of turn.</text>
+			<text>Whenever this creature attacks, create a Weapon token and attach it to target creature you control. (It&apos;s an Equipment with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
 			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/71.png" num="25">SKL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1437,9 +1437,9 @@ Creatures you control get +1/+1.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>UW13 Guardian Leyline</name>
-			<text>You have hexproof.
-Creatures can&apos;t attack you or planeswalkers you control unless their controller pays {2} for each of those creatures.</text>
+			<name>UW13 Battle Preparations</name>
+			<text>Equip abilities you activate cost {1} less to activate. An equip cost cannot cost less than {1} this way.
+At the beginning of your upkeep, create a Weapon token. (It&apos;s an Equipment with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
 			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/82.png" num="36">SKL</set>
 			<prop>
 				<layout>normal</layout>
@@ -1509,7 +1509,8 @@ When this creature enters, tap target creature and put a stun counter on it.</te
 		</card>
 		<card>
 			<name>UU03 Azure Corps Blademaster</name>
-			<text>Whenever this creature deals combat damage to a player, draw a card. If this creature was modified, draw two cards instead. (Equipment, Auras you control, and counters are modifications.)</text>
+			<text>Whenever this creature deals combat damage to a player, draw a card.
+{3}: Create a Weapon token. (It&apos;s an Equipment with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)</text>
 			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/86.png" num="63">SKL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2133,7 +2134,7 @@ Draw three cards.</text>
 		</card>
 		<card>
 			<name>UR05 Simple Miscommunication</name>
-			<text>Simple Miscommunication deals 5 damage to target creature. If that creature would die this turn, exile it instead and create a 0/2 colorless Elemental creature token named Ashes.</text>
+			<text>Simple Miscommunication deals 5 damage to target creature. If that creature would die this turn, exile it instead and its controller creates a 0/2 colorless Elemental creature token named Ashes.</text>
 			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/122.png" num="139">SKL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2387,7 +2388,7 @@ Infusion — That creature gets +5/+5 instead if you gained life this turn.</tex
 		</card>
 		<card>
 			<name>CG13 Nature&apos;s Wisdom</name>
-			<text>When this enchantment enters and whenever a creature you control deals combat damage to a player, scry 1 and gain 2 life.</text>
+			<text>When this enchantment enters and whenever one or more creatures you control deal combat damage to a player, scry 1 and gain 2 life.</text>
 			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/137.png" num="161">SKL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2419,18 +2420,20 @@ Infusion — Whenever a creature you control enters, if you gained life this tur
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RW01</name>
-			<text></text>
+			<name>RW01 Vital Shimmerwing</name>
+			<text>Flying
+Whenever you gain life, put a +1/+1 counter on this creature.</text>
 			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/139.png" num="17">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Dinosaur Bird</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>WW</manacost>
+				<cmc>2</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>1/1</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2451,18 +2454,20 @@ Infusion — Whenever a creature you control enters, if you gained life this tur
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RW03</name>
-			<text></text>
+			<name>RW03 Proud Sailback</name>
+			<text>Vigilance, trample
+Infusion — Whenever this creature or another creature you control enters, other creatures you control get +1/+1 until end of turn if you gained life this turn.</text>
 			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/141.png" num="19">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Dinosaur</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>4WW</manacost>
+				<cmc>6</cmc>
 				<colors>W</colors>
 				<coloridentity>W</coloridentity>
+				<pt>5/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2485,7 +2490,7 @@ Overload {3}{W}{W} (You may cast this spell for its overload cost. If you do, ch
 		</card>
 		<card>
 			<name>UW06 Brilliant Thrust</name>
-			<text>Destroy target creature. Its controller gains life equal to the destroyed creature&apos;s toughness.</text>
+			<text>Destroy target creature. Its controller gains life equal to its toughness.</text>
 			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/143.png" num="29">SKL</set>
 			<prop>
 				<layout>normal</layout>
@@ -2646,18 +2651,20 @@ Whenever this creature deals combat damage to a player, surveil 3.</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>RB01</name>
-			<text></text>
+			<name>RB01 Fen Lurker</name>
+			<text>When this creature enters, you may discard a creature card. If you do, draw a card and put a menace counter on this creature.
+Lands you control are Swamps in addition to their other types.</text>
 			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/153.png" num="91">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Serpent</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<pt>4/4</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -2902,18 +2909,20 @@ Whenever this creature deals combat damage to a player, surveil 3.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RG03</name>
-			<text></text>
+			<name>RG03 Cor-Bask Herdcaller</name>
+			<text>Vigilance
+When this creature enters, search your library for a creature card, put it into your hand, then shuffle.</text>
 			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/169.png" num="167">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Creature</type>
+				<type>Creature — Dinosaur</type>
 				<maintype>Creature</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<manacost>3GG</manacost>
+				<cmc>5</cmc>
 				<colors>G</colors>
 				<coloridentity>G</coloridentity>
+				<pt>4/6</pt>
 			</prop>
 			<tablerow>2</tablerow>
 		</card>
@@ -3066,20 +3075,25 @@ Whenever this creature deals combat damage to a player, surveil 3.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>MB02</name>
-			<text></text>
+			<name>MB02 Xrk, The Antlered One</name>
+			<text>[+1]: Draw a card and you lose 1 life.
+[-3]: Each player sacrifices a creature. If you sacrificed a permanent this way, return another target creature from your graveyard to the battlefield.
+[-8]: You get an emblem with &quot;Whenever a creature dies, each opponent loses 2 life and you gain 2 life. If it wasn&apos;t a token, create a 2/2 red Elemental creature token.&quot;</text>
 			<set rarity="mythic" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/179.png" num="90">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost></manacost>
-				<cmc>0</cmc>
+				<type>Legendary Planeswalker — Xrk</type>
+				<maintype>Planeswalker</maintype>
+				<manacost>2BB</manacost>
+				<cmc>4</cmc>
 				<colors>B</colors>
 				<coloridentity>B</coloridentity>
+				<loyalty>4</loyalty>
 			</prop>
-			<tablerow>3</tablerow>
+			<tablerow>1</tablerow>
+			<related count="1">Xrk, The Antlered One</related>
+			<related count="1">Elemental2</related>
 		</card>
 		<card>
 			<name>MR01</name>
@@ -3131,9 +3145,9 @@ Whenever this creature deals combat damage to a player, surveil 3.</text>
 		</card>
 		<card>
 			<name>MG02 Chak&apos;nul, Essence of Cor-Bask</name>
-			<text>[+2]: Gain 2 life.
-[-3]: Creatures you control get +3/+3 and gain trample until end of turn.
-[-8]: You get an emblem with &quot;Whenever you gain life, draw a card and put a +1/+1 counter on target creature you control.&quot;</text>
+			<text>[+2]: Create a 2/2 green Elemental creature token.
+[-3]: Put a +1/+1 counter on target creature you control. It fights target creature you don&apos;t control.
+[-8]: You gain 3 life for each creature you control and get an emblem with &quot;Creatures you control get +3/+3 and have trample.&quot;</text>
 			<set rarity="mythic" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/183.png" num="164">SKL</set>
 			<prop>
 				<layout>normal</layout>
@@ -3148,6 +3162,7 @@ Whenever this creature deals combat damage to a player, surveil 3.</text>
 			</prop>
 			<tablerow>1</tablerow>
 			<related count="1">Chak&apos;nul, Essence of Cor-Bask</related>
+			<related count="1">Elemental6</related>
 		</card>
 		<card>
 			<name>RM02 The Abhorrent One</name>
@@ -3169,9 +3184,9 @@ Whenever you attack, surveil 2.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RM04</name>
+			<name>RM03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/185.png" num="221">SKL</set>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/185.png" num="220">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3206,7 +3221,7 @@ Whenever a nonland card is put into your graveyard from anywhere, create a 0/1 b
 		<card>
 			<name>RM03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/187.png" num="216">SKL</set>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/187.png" num="218">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3241,7 +3256,7 @@ When Lyth enters, if you control 3 or more Elementals, draw a card.
 		<card>
 			<name>RM03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/189.png" num="219">SKL</set>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/189.png" num="217">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3274,7 +3289,7 @@ When Lyth enters, if you control 3 or more Elementals, draw a card.
 		<card>
 			<name>RM03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/191.png" num="218">SKL</set>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/191.png" num="216">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3310,7 +3325,7 @@ Whenever another creature you control dies, draw a card. This ability triggers o
 			<name>RM04 Manasynth Wave</name>
 			<text>Search your library for two basic land cards, put them onto the battlefield tapped, then shuffle.
 If you control four or more Elementals, untap up to six lands.</text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/193.png" num="225">SKL</set>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/193.png" num="222">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3342,9 +3357,9 @@ Remove a +1/+1 counter from Thaskar: Target modified creature you control can&ap
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RM03</name>
-			<text></text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/195.png" num="217">SKL</set>
+			<name>RM04 Seal Away</name>
+			<text>Return target spell to its owner&apos;s hand. Spells with the same name as that spell can&apos;t be cast this turn.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/195.png" num="225">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3376,9 +3391,9 @@ Stampede — Whenever Ikthyll attacks, defending player may sacrifice a nonland 
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>RM04</name>
-			<text></text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/197.png" num="222">SKL</set>
+			<name>RM04 Portal to Yesterday</name>
+			<text>Shuffle any number of cards from your graveyard into your library.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/197.png" num="223">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3410,16 +3425,16 @@ Whenever this creature enters or attacks, create a 1/1 black and red Elemental c
 			<related count="1">Elemental4</related>
 		</card>
 		<card>
-			<name>RM04</name>
-			<text></text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/199.png" num="223">SKL</set>
+			<name>RM04 Reborn from Ash</name>
+			<text>Put target creature card from a graveyard onto the battlefield under your control. It gains menace and haste until end of turn.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/199.png" num="224">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
 				<type>Sorcery</type>
 				<maintype>Sorcery</maintype>
-				<manacost>BR</manacost>
-				<cmc>2</cmc>
+				<manacost>3BR</manacost>
+				<cmc>5</cmc>
 				<colors>BR</colors>
 				<coloridentity>BR</coloridentity>
 			</prop>
@@ -3446,7 +3461,7 @@ Modified creatures you control have ward {2}.</text>
 		<card>
 			<name>RM03</name>
 			<text></text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/201.png" num="220">SKL</set>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/201.png" num="219">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3481,7 +3496,7 @@ As long as it&apos;s not your turn, Ol&apos;grak has first strike.</text>
 		<card>
 			<name>RM04 Controlled Burn</name>
 			<text>Discard two cards, then draw two cards. You may put any number of land cards from your graveyard onto the battlefield tapped.</text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/203.png" num="224">SKL</set>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/203.png" num="221">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3723,11 +3738,11 @@ Equip {2}</text>
 			<tablerow>1</tablerow>
 		</card>
 		<card>
-			<name>CA02 Quickstrike Dagger</name>
+			<name>UA05 Quickstrike Dagger</name>
 			<text>Equipped creature gets +1/+1.
 Whenever equipped creature deals combat damage to a player, you may discard a card. If you do, draw a card.
 Equip {1}</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/217.png" num="247">SKL</set>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/217.png" num="258">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3758,7 +3773,7 @@ When this creature enters, you may search your library for a basic land card, re
 			<name>UA01 Jeweled Lens</name>
 			<text>When this artifact enters, surveil 2. (Look at the top two cards of your library, then put any number of them into your graveyard and the rest on top of your library in any order.)
 {T}: Add one mana of any color.</text>
-			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/219.png" num="251">SKL</set>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/219.png" num="254">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3771,9 +3786,9 @@ When this creature enters, you may search your library for a basic land card, re
 		</card>
 		<card>
 			<name>UA02 Revalation Blade</name>
-			<text>Equipped creature gets +2/+1 and has first strike.
+			<text>Equipped creature gets +2/+1 and has vigilance.
 Equip {2}</text>
-			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/220.png" num="252">SKL</set>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/220.png" num="255">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3789,7 +3804,7 @@ Equip {2}</text>
 			<text>This land enters tapped.
 When this land enters, put a land you control on the bottom of your library.
 {T}: Add {W}{U}.</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/221.png" num="253">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/221.png" num="259">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3806,7 +3821,7 @@ When this land enters, put a land you control on the bottom of your library.
 			<text>This land enters tapped.
 When this land enters, put a land you control on the bottom of your library.
 {T}: Add {G}{W}.</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/222.png" num="254">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/222.png" num="260">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3823,7 +3838,7 @@ When this land enters, put a land you control on the bottom of your library.
 			<text>This land enters tapped.
 When this land enters, put a land you control on the bottom of your library.
 {T}: Add {B}{R}.</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/223.png" num="255">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/223.png" num="261">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3840,7 +3855,7 @@ When this land enters, put a land you control on the bottom of your library.
 			<text>This land enters tapped.
 When this land enters, put a land you control on the bottom of your library.
 {T}: Add {R}{G}.</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/224.png" num="256">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/224.png" num="262">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3857,7 +3872,7 @@ When this land enters, put a land you control on the bottom of your library.
 			<text>This land enters tapped.
 When this land enters, put a land you control on the bottom of your library.
 {T}: Add {U}{B}.</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/225.png" num="257">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/225.png" num="263">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3874,7 +3889,7 @@ When this land enters, put a land you control on the bottom of your library.
 			<text>This land enters tapped.
 When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {T}: Add {G} or {W}.</text>
-			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/226.png" num="264">SKL</set>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/226.png" num="270">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3891,7 +3906,7 @@ When this land enters, surveil 1. (Look at the top card of your library. You may
 			<text>This land enters tapped.
 When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {T}: Add {R} or {G}.</text>
-			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/227.png" num="266">SKL</set>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/227.png" num="272">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3908,7 +3923,7 @@ When this land enters, surveil 1. (Look at the top card of your library. You may
 			<text>This land enters tapped.
 When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {T}: Add {W} or {U}.</text>
-			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/228.png" num="263">SKL</set>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/228.png" num="269">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3925,7 +3940,7 @@ When this land enters, surveil 1. (Look at the top card of your library. You may
 			<text>This land enters tapped.
 When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {T}: Add {U} or {B}.</text>
-			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/229.png" num="267">SKL</set>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/229.png" num="273">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3942,7 +3957,7 @@ When this land enters, surveil 1. (Look at the top card of your library. You may
 			<text>This land enters tapped.
 When this land enters, surveil 1. (Look at the top card of your library. You may put it into your graveyard.)
 {T}: Add {B} or {R}.</text>
-			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/230.png" num="265">SKL</set>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/230.png" num="271">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3958,8 +3973,9 @@ When this land enters, surveil 1. (Look at the top card of your library. You may
 			<name>RL03 Altar of the Phoenix</name>
 			<text>({T}: Add {B} or {R}.)
 This land enters tapped.
-{2}{B}{R}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.</text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/231.png" num="260">SKL</set>
+{2}{B}{R}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.
+Whenever this land attacks, discard two cards, then for each card discarded this way, draw a card.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/231.png" num="266">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3975,8 +3991,9 @@ This land enters tapped.
 			<name>RL05 Cathedral of Damnation</name>
 			<text>({T}: Add {U} or {B}.)
 This land enters tapped.
-{2}{U}{B}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.</text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/232.png" num="262">SKL</set>
+{2}{U}{B}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.
+Whenever this land attacks, surveil 2 and draw a card.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/232.png" num="268">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -3992,8 +4009,9 @@ This land enters tapped.
 			<name>RL02 Vast Countryside</name>
 			<text>({T}: Add {G} or {W}.)
 This land enters tapped.
-{2}{G}{W}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.</text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/233.png" num="259">SKL</set>
+{2}{G}{W}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.
+Whenever this land attacks, put a +1/+1 counter on another target creature you control and you gain 2 life.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/233.png" num="265">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4009,8 +4027,9 @@ This land enters tapped.
 			<name>RL04 Briarthorn Ravine</name>
 			<text>({T}: Add {R} or {G}.)
 This land enters tapped.
-{2}{R}{G}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.</text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/234.png" num="261">SKL</set>
+{2}{R}{G}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.
+Whenever this land attacks, put a trample counter on each of up to two other creatures you control.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/234.png" num="267">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4392,7 +4411,7 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		<card>
 			<name>Plains</name>
 			<text></text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/256.png" num="268">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/256.png" num="274">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4407,7 +4426,7 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		<card>
 			<name>Island</name>
 			<text></text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/257.png" num="269">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/257.png" num="275">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4422,7 +4441,7 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		<card>
 			<name>Swamp</name>
 			<text></text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/258.png" num="270">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/258.png" num="276">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4437,7 +4456,7 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		<card>
 			<name>Mountain</name>
 			<text></text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/259.png" num="271">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/259.png" num="277">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4452,7 +4471,7 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		<card>
 			<name>Forest</name>
 			<text></text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/260.png" num="272">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/260.png" num="278">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4467,7 +4486,7 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		<card>
 			<name>Elemental3 SKL</name>
 			<text>Trample</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/261.png" num="8">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/261.png" num="9">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4521,7 +4540,7 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		<card>
 			<name>Spirit3 SKL</name>
 			<text></text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/264.png" num="11">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/264.png" num="12">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4539,7 +4558,7 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 		<card>
 			<name>Snake SKL</name>
 			<text></text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/265.png" num="7">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/265.png" num="8">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4558,8 +4577,9 @@ Lands you control have &quot;{T}: Add one mana of any color.&quot;</text>
 			<name>RL01 Chosen Sea</name>
 			<text>({T}: Add {W} or {U}.)
 This land enters tapped.
-{2}{W}{U}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.</text>
-			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/266.png" num="258">SKL</set>
+{2}{W}{U}: This land becomes a 4/4 Elemental creature until end of turn. It&apos;s still a land.
+Whenever this land attacks, create a Weapon token and attach it to another target creature you control.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/266.png" num="264">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4574,7 +4594,7 @@ This land enters tapped.
 		<card>
 			<name>Elemental4 SKL</name>
 			<text></text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/267.png" num="9">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/267.png" num="10">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4592,7 +4612,7 @@ This land enters tapped.
 		<card>
 			<name>Elemental5 SKL</name>
 			<text>Flying</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/268.png" num="10">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/268.png" num="11">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4803,7 +4823,7 @@ Whenever another creature you control dies, this creature deals 1 damage to each
 		<card>
 			<name>Treasure SKL</name>
 			<text>{T}, Sacrifice this token: Add one mana of any color.</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/280.png" num="12">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/280.png" num="13">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4947,7 +4967,7 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on target E
 		<card>
 			<name>Alyka, Bar&apos;rykian Princess SKL</name>
 			<text>Creatures you control get +X/+0, where X is the number of creature cards in your graveyard</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/288.png" num="13">SKL</set>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/288.png" num="15">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -4961,8 +4981,154 @@ Landfall — Whenever a land you control enters, put a +1/+1 counter on target E
 		</card>
 		<card>
 			<name>Chak&apos;nul, Essence of Cor-Bask SKL</name>
-			<text>Whenever you gain life, draw a card and put a +1/+1 counter on target creature you control.</text>
-			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/289.png" num="14">SKL</set>
+			<text>Creatures you control get +3/+3 and have trample.</text>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/289.png" num="16">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Emblem</type>
+				<maintype>Emblem</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Elemental6 SKL</name>
+			<text></text>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/290.png" num="7">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Creature — Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+				<colors>G</colors>
+				<coloridentity>G</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>UA04 Worn Rapier</name>
+			<text>Equipped creature gets +2/+0 and has first strike.
+Equip {2}</text>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/291.png" num="257">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>3</manacost>
+				<cmc>3</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>UA03 Arcane Greataxe</name>
+			<text>Equipped creature gets +2/+2 and has trample.
+Whenever equipped creature becomes the target of an instant or sorcery spell, you may copy that spell. You may choose new targets for the copy.
+Equip {3}</text>
+			<set rarity="uncommon" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/292.png" num="256">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RA02 Armory of Many Blades</name>
+			<text>When this artifact enters and at the beginning of your upkeep, choose one —
+• Create a Weapon token. (It&apos;s an Equipment with equip {2} and &quot;Equipped creature gets +1/+1.&quot;)
+• Attach target Equipment you control to target creature you control.
+Modified creatures you control get +1/+1.</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/293.png" num="253">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>CA02 Staff of Life</name>
+			<text>Equipped creature has lifelink.
+Equip {1}</text>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/294.png" num="247">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>2</manacost>
+				<cmc>2</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>RA01 Crackling Battle Standard</name>
+			<text>Equipped creature gets +3/+1 and has vigilance, reach, and provoke. (Whenever this creature attacks, you may have target creature defending player controls untap and block it if able.)
+Equip {2}</text>
+			<set rarity="rare" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/295.png" num="252">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>4</manacost>
+				<cmc>4</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>MA01 Kyrtallian, Blade of Sokleth</name>
+			<text>Kyrtallian is all colors.
+Equipped creature gets +3/+3.
+Whenever equipped creature deals combat damage to a player, untap it, and there is an additional combat phase after this one. This ability triggers only once each turn.
+Equip legendary creature {2}
+Equip {5}</text>
+			<set rarity="mythic" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/296.png" num="251">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost>5</manacost>
+				<cmc>5</cmc>
+				<coloridentity>WUBRG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Weapon SKL</name>
+			<text>Equipped creature gets +1/+1.
+Equip {2}</text>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/297.png" num="14">SKL</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Token Artifact — Equipment</type>
+				<maintype>Artifact</maintype>
+				<manacost></manacost>
+				<cmc>0</cmc>
+			</prop>
+			<tablerow>1</tablerow>
+			<token>1</token>
+		</card>
+		<card>
+			<name>Xrk, The Antlered One SKL</name>
+			<text>Whenever a creature dies, each opponent loses 2 life and you gain 2 life. If it wasn&apos;t a token, create a 2/2 red Elemental creature token.</text>
+			<set rarity="common" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/298.png" num="17">SKL</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
