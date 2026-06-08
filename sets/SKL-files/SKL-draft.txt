@@ -31,10 +31,10 @@
 			}
 		},
 		{
-			"name": "CW06 Ivory Griffonrider",
+			"name": "CW06 Ivory Corps Griffonrider",
 			"rarity": "common",
 			"mana_cost": "{2}{W}{W}",
-			"type": "Creature — Elf Knight",
+			"type": "Creature — Elf Soldier",
 			"collector_number": "6",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/3.png"
@@ -285,7 +285,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zombie Beast",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/29.png"
 			}
@@ -305,7 +305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Crocodile Elemental",
-			"collector_number": "227",
+			"collector_number": "225",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/30.png"
 			}
@@ -315,7 +315,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Bird",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/31.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Faerie",
-			"collector_number": "79",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/32.png"
 			}
@@ -335,7 +335,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{B}",
 			"type": "Creature — Beast",
-			"collector_number": "80",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/33.png"
 			}
@@ -345,7 +345,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "81",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/34.png"
 			}
@@ -355,7 +355,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Instant",
-			"collector_number": "82",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/35.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "83",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/36.png"
 			}
@@ -375,7 +375,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Sorcery",
-			"collector_number": "84",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/37.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "85",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "86",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/39.png"
 			}
@@ -405,7 +405,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "87",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/40.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "88",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "112",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "113",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Phoenix",
-			"collector_number": "114",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Spirit Wolf",
-			"collector_number": "115",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Dragon Sorcerer",
-			"collector_number": "116",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/46.png"
 			}
@@ -475,7 +475,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{R}",
 			"type": "Creature — Elemental Whale",
-			"collector_number": "117",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/47.png"
 			}
@@ -485,7 +485,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "118",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/48.png"
 			}
@@ -495,7 +495,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Instant",
-			"collector_number": "119",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/49.png"
 			}
@@ -505,7 +505,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "120",
+			"collector_number": "119",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/50.png"
 			}
@@ -515,7 +515,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}",
 			"type": "Instant",
-			"collector_number": "121",
+			"collector_number": "120",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/51.png"
 			}
@@ -525,7 +525,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "122",
+			"collector_number": "121",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/52.png"
 			}
@@ -535,7 +535,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "123",
+			"collector_number": "122",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/53.png"
 			}
@@ -545,7 +545,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "124",
+			"collector_number": "123",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/54.png"
 			}
@@ -555,7 +555,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "125",
+			"collector_number": "124",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/55.png"
 			}
@@ -565,7 +565,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect Dragon",
-			"collector_number": "149",
+			"collector_number": "147",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/56.png"
 			}
@@ -575,7 +575,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Insect",
-			"collector_number": "150",
+			"collector_number": "148",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/57.png"
 			}
@@ -585,7 +585,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Treefolk Elemental",
-			"collector_number": "153",
+			"collector_number": "151",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/58.png"
 			}
@@ -595,7 +595,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Elf Warlock",
-			"collector_number": "152",
+			"collector_number": "150",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/59.png"
 			}
@@ -605,7 +605,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Dryad Druid",
-			"collector_number": "151",
+			"collector_number": "149",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/60.png"
 			}
@@ -615,7 +615,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Fungus",
-			"collector_number": "154",
+			"collector_number": "152",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/61.png"
 			}
@@ -625,7 +625,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elemental Beast",
-			"collector_number": "155",
+			"collector_number": "153",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/62.png"
 			}
@@ -635,7 +635,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Elemental Horror",
-			"collector_number": "156",
+			"collector_number": "154",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/63.png"
 			}
@@ -645,7 +645,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "157",
+			"collector_number": "155",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/64.png"
 			}
@@ -655,7 +655,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "158",
+			"collector_number": "156",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/65.png"
 			}
@@ -665,7 +665,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Sorcery",
-			"collector_number": "159",
+			"collector_number": "157",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/66.png"
 			}
@@ -675,7 +675,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{G}",
 			"type": "Instant",
-			"collector_number": "180",
+			"collector_number": "178",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/67.png"
 			}
@@ -685,7 +685,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "184",
+			"collector_number": "182",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/68.png"
 			}
@@ -695,7 +695,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment — Aura",
-			"collector_number": "162",
+			"collector_number": "160",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/69.png"
 			}
@@ -714,7 +714,7 @@
 			"name": "UW02 Glitterwing Dragoons",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}",
-			"type": "Creature — Faerie Knight",
+			"type": "Creature — Faerie Soldier",
 			"collector_number": "25",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/71.png"
@@ -845,7 +845,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "61",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/84.png"
 			}
@@ -855,7 +855,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Creature — Salamander Snake Soldier",
-			"collector_number": "62",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/85.png"
 			}
@@ -865,7 +865,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Snake Soldier",
-			"collector_number": "63",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/86.png"
 			}
@@ -875,7 +875,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/87.png"
 			}
@@ -885,7 +885,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}",
 			"type": "Instant",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/88.png"
 			}
@@ -895,7 +895,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/89.png"
 			}
@@ -905,7 +905,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}",
 			"type": "Creature — Elemental",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/90.png"
 			}
@@ -915,7 +915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/91.png"
 			}
@@ -925,7 +925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/92.png"
 			}
@@ -935,7 +935,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{U}",
 			"type": "Sorcery",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/93.png"
 			}
@@ -945,7 +945,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/94.png"
 			}
@@ -955,7 +955,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/95.png"
 			}
@@ -965,7 +965,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/96.png"
 			}
@@ -975,7 +975,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Creature — Skeleton Knight",
-			"collector_number": "98",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/97.png"
 			}
@@ -985,7 +985,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Creature — Bird Shaman",
-			"collector_number": "99",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/98.png"
 			}
@@ -995,7 +995,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Elemental",
-			"collector_number": "100",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/99.png"
 			}
@@ -1005,7 +1005,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Creature — Human Cleric",
-			"collector_number": "101",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/100.png"
 			}
@@ -1015,7 +1015,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Spirit",
-			"collector_number": "102",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/101.png"
 			}
@@ -1025,7 +1025,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}{B}",
 			"type": "Creature — Elemental Crocodile",
-			"collector_number": "103",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/102.png"
 			}
@@ -1035,7 +1035,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "104",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/103.png"
 			}
@@ -1045,7 +1045,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Instant",
-			"collector_number": "105",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/104.png"
 			}
@@ -1055,7 +1055,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}",
 			"type": "Instant",
-			"collector_number": "106",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/105.png"
 			}
@@ -1065,7 +1065,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Sorcery",
-			"collector_number": "107",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/106.png"
 			}
@@ -1075,7 +1075,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}",
 			"type": "Sorcery",
-			"collector_number": "108",
+			"collector_number": "107",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/107.png"
 			}
@@ -1085,7 +1085,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "109",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/108.png"
 			}
@@ -1095,7 +1095,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Enchantment",
-			"collector_number": "110",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/109.png"
 			}
@@ -1105,7 +1105,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{B}",
 			"type": "Enchantment",
-			"collector_number": "111",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/110.png"
 			}
@@ -1115,7 +1115,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "135",
+			"collector_number": "133",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/111.png"
 			}
@@ -1125,7 +1125,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Human Wizard",
-			"collector_number": "136",
+			"collector_number": "134",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/112.png"
 			}
@@ -1135,7 +1135,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}",
 			"type": "Creature — Elemental",
-			"collector_number": "137",
+			"collector_number": "135",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/113.png"
 			}
@@ -1145,7 +1145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Legendary Creature — Dragon",
-			"collector_number": "138",
+			"collector_number": "136",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/114.png"
 			}
@@ -1155,7 +1155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{X}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "145",
+			"collector_number": "143",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/115.png"
 			}
@@ -1165,7 +1165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "146",
+			"collector_number": "144",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/116.png"
 			}
@@ -1175,7 +1175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "141",
+			"collector_number": "139",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/117.png"
 			}
@@ -1185,7 +1185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "142",
+			"collector_number": "140",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/118.png"
 			}
@@ -1195,7 +1195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "144",
+			"collector_number": "142",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/119.png"
 			}
@@ -1205,7 +1205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "143",
+			"collector_number": "141",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/120.png"
 			}
@@ -1215,7 +1215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}",
 			"type": "Instant",
-			"collector_number": "140",
+			"collector_number": "138",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/121.png"
 			}
@@ -1225,7 +1225,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Instant",
-			"collector_number": "139",
+			"collector_number": "137",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/122.png"
 			}
@@ -1235,7 +1235,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "147",
+			"collector_number": "145",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/123.png"
 			}
@@ -1245,7 +1245,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}",
 			"type": "Enchantment",
-			"collector_number": "148",
+			"collector_number": "146",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/124.png"
 			}
@@ -1255,7 +1255,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Dryad Bard",
-			"collector_number": "172",
+			"collector_number": "170",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/125.png"
 			}
@@ -1265,7 +1265,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Creature — Wolf Elemental",
-			"collector_number": "173",
+			"collector_number": "171",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/126.png"
 			}
@@ -1275,7 +1275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}",
 			"type": "Creature — Spirit",
-			"collector_number": "174",
+			"collector_number": "172",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/127.png"
 			}
@@ -1285,7 +1285,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Creature — Human",
-			"collector_number": "175",
+			"collector_number": "173",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/128.png"
 			}
@@ -1295,7 +1295,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Creature — Elemental",
-			"collector_number": "177",
+			"collector_number": "175",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/129.png"
 			}
@@ -1305,7 +1305,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Creature — Human Druid",
-			"collector_number": "176",
+			"collector_number": "174",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/130.png"
 			}
@@ -1315,7 +1315,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}{G}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "178",
+			"collector_number": "176",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/131.png"
 			}
@@ -1325,7 +1325,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "179",
+			"collector_number": "177",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/132.png"
 			}
@@ -1335,7 +1335,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{G}{G}",
 			"type": "Sorcery",
-			"collector_number": "183",
+			"collector_number": "181",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/133.png"
 			}
@@ -1345,7 +1345,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{G}",
 			"type": "Sorcery",
-			"collector_number": "181",
+			"collector_number": "179",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/134.png"
 			}
@@ -1355,7 +1355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Sorcery",
-			"collector_number": "182",
+			"collector_number": "180",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/135.png"
 			}
@@ -1365,7 +1365,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Instant",
-			"collector_number": "160",
+			"collector_number": "158",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/136.png"
 			}
@@ -1375,7 +1375,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}",
 			"type": "Enchantment",
-			"collector_number": "161",
+			"collector_number": "159",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/137.png"
 			}
@@ -1385,7 +1385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}",
 			"type": "Enchantment",
-			"collector_number": "185",
+			"collector_number": "183",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/138.png"
 			}
@@ -1401,10 +1401,10 @@
 			}
 		},
 		{
-			"name": "RW02",
+			"name": "RW02 Ivory Corps Lieutenant",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{2}{W}",
+			"type": "Creature — Elf Soldier",
 			"collector_number": "18",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/140.png"
@@ -1441,59 +1441,59 @@
 			}
 		},
 		{
-			"name": "RW06",
+			"name": "RW06 Glimmer Stream",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
 			"collector_number": "22",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/144.png"
 			}
 		},
 		{
-			"name": "RW07",
+			"name": "RW07 Bountiful Harvest",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment — Aura",
 			"collector_number": "23",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/145.png"
 			}
 		},
 		{
-			"name": "RU01 Bar'rykian Oarfish",
+			"name": "RU03 Bar'rykian Oarfish",
 			"rarity": "rare",
 			"mana_cost": "{4}{U}",
 			"type": "Creature — Fish",
-			"collector_number": "54",
+			"collector_number": "56",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/146.png"
 			}
 		},
 		{
-			"name": "RU02",
+			"name": "RU02 Bar'rykian Thresher",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Instant",
+			"mana_cost": "{3}{U}",
+			"type": "Creature — Whale",
 			"collector_number": "55",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/147.png"
 			}
 		},
 		{
-			"name": "RU03",
+			"name": "RU01 Diving Sailback",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Instant",
-			"collector_number": "56",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/148.png"
 			}
 		},
 		{
-			"name": "RU04",
+			"name": "RU04 Yield to Nothingness",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{2}{U}{U}",
 			"type": "Instant",
 			"collector_number": "57",
 			"image_uris": {
@@ -1501,31 +1501,31 @@
 			}
 		},
 		{
-			"name": "RU05",
+			"name": "RU05 Bar'ryk, the Fathomless Expanse",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Instant",
-			"collector_number": "58",
+			"type": "Legendary Land",
+			"collector_number": "268",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/150.png"
 			}
 		},
 		{
-			"name": "RU06",
+			"name": "RU06 Fathom Multitudes",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Sorcery",
-			"collector_number": "59",
+			"mana_cost": "{5}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "58",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/151.png"
 			}
 		},
 		{
-			"name": "RU07",
+			"name": "RU07 Grasp the Mind",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Enchantment",
-			"collector_number": "60",
+			"mana_cost": "{3}{U}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/152.png"
 			}
@@ -1535,7 +1535,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Serpent",
-			"collector_number": "91",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/153.png"
 			}
@@ -1545,17 +1545,17 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "92",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/154.png"
 			}
 		},
 		{
-			"name": "RB03",
+			"name": "RB03 Ydra, Mother of Rebirth",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Instant",
-			"collector_number": "93",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Legendary Creature — Dragon",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/155.png"
 			}
@@ -1565,7 +1565,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/156.png"
 			}
@@ -1575,7 +1575,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/157.png"
 			}
@@ -1585,47 +1585,47 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "96",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/158.png"
 			}
 		},
 		{
-			"name": "RB07",
+			"name": "RB07 Ydra's Last Stand",
 			"rarity": "rare",
-			"mana_cost": "",
+			"mana_cost": "{2}{B}{B}",
 			"type": "Sorcery",
-			"collector_number": "97",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/159.png"
 			}
 		},
 		{
-			"name": "RR01",
+			"name": "RR01 Magma Jackal",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "128",
+			"mana_cost": "{R}{R}",
+			"type": "Creature — Elemental",
+			"collector_number": "127",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/160.png"
 			}
 		},
 		{
-			"name": "RR02",
+			"name": "RR02 Intense Aegisaur",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "129",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — DInosaur",
+			"collector_number": "128",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/161.png"
 			}
 		},
 		{
-			"name": "RR03",
+			"name": "RR03 Infernus Hellkite",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "130",
+			"mana_cost": "{6}{R}{R}",
+			"type": "Creature — Dragon",
+			"collector_number": "129",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/162.png"
 			}
@@ -1635,7 +1635,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Instant",
-			"collector_number": "131",
+			"collector_number": "130",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/163.png"
 			}
@@ -1645,17 +1645,17 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Sorcery",
-			"collector_number": "132",
+			"collector_number": "131",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/164.png"
 			}
 		},
 		{
-			"name": "RR06",
-			"rarity": "rare",
-			"mana_cost": "",
+			"name": "MR02 Assured Bombardment",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{R}",
 			"type": "Enchantment",
-			"collector_number": "133",
+			"collector_number": "126",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/165.png"
 			}
@@ -1665,7 +1665,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}",
 			"type": "Enchantment",
-			"collector_number": "134",
+			"collector_number": "132",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/166.png"
 			}
@@ -1675,17 +1675,17 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "165",
+			"collector_number": "163",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/167.png"
 			}
 		},
 		{
-			"name": "RG02",
+			"name": "RG02 Eritah, Priestess of Cor-Bask",
 			"rarity": "rare",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "166",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Creature — Elemental Elf Druid",
+			"collector_number": "164",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/168.png"
 			}
@@ -1695,7 +1695,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{G}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "167",
+			"collector_number": "165",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/169.png"
 			}
@@ -1705,7 +1705,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "168",
+			"collector_number": "166",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/170.png"
 			}
@@ -1715,7 +1715,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Creature",
-			"collector_number": "169",
+			"collector_number": "167",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/171.png"
 			}
@@ -1724,8 +1724,8 @@
 			"name": "RG06",
 			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "170",
+			"type": "Sorcery",
+			"collector_number": "168",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/172.png"
 			}
@@ -1735,25 +1735,25 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Enchantment",
-			"collector_number": "171",
+			"collector_number": "169",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/173.png"
 			}
 		},
 		{
-			"name": "MW01",
+			"name": "MW01 Rys Ke'fal, Crown of the Ivory Corps",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Creature",
+			"mana_cost": "{3}{W}",
+			"type": "Legendary Creature — Elf Soldier",
 			"collector_number": "15",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/174.png"
 			}
 		},
 		{
-			"name": "MW02",
+			"name": "MW02 Absolution",
 			"rarity": "mythic",
-			"mana_cost": "",
+			"mana_cost": "{4}{W}{W}",
 			"type": "Sorcery",
 			"collector_number": "16",
 			"image_uris": {
@@ -1761,9 +1761,9 @@
 			}
 		},
 		{
-			"name": "MU01",
+			"name": "MU01 Harness Tomorrow",
 			"rarity": "mythic",
-			"mana_cost": "",
+			"mana_cost": "{X}{U}{U}{U}",
 			"type": "Instant",
 			"collector_number": "52",
 			"image_uris": {
@@ -1781,11 +1781,11 @@
 			}
 		},
 		{
-			"name": "MB01",
+			"name": "MB01 Shadeborne Ghast",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "89",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Spirit",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/178.png"
 			}
@@ -1795,37 +1795,37 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Legendary Planeswalker — Xrk",
-			"collector_number": "90",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/179.png"
 			}
 		},
 		{
-			"name": "MR01",
+			"name": "MR01 Eruption of Kret Val",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Instant",
-			"collector_number": "126",
+			"mana_cost": "{X}{X}{R}",
+			"type": "Sorcery",
+			"collector_number": "125",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/180.png"
 			}
 		},
 		{
-			"name": "MR02",
-			"rarity": "mythic",
+			"name": "RR06 Kret Val, Nest of Rebirth",
+			"rarity": "rare",
 			"mana_cost": "",
-			"type": "Enchantment",
-			"collector_number": "127",
+			"type": "Legendary Land",
+			"collector_number": "267",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/181.png"
 			}
 		},
 		{
-			"name": "MG01",
+			"name": "MG01 Scicleclaw Ravager",
 			"rarity": "mythic",
-			"mana_cost": "",
-			"type": "Creature",
-			"collector_number": "163",
+			"mana_cost": "{5}{G}{G}{G}",
+			"type": "Creature — Dinosaur",
+			"collector_number": "161",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/182.png"
 			}
@@ -1835,7 +1835,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}",
 			"type": "Legendary Planeswalker — Chak'nul",
-			"collector_number": "164",
+			"collector_number": "162",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/183.png"
 			}
@@ -1845,17 +1845,17 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{B}",
 			"type": "Legendary Creature — Spirit Elemental",
-			"collector_number": "215",
+			"collector_number": "213",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/184.png"
 			}
 		},
 		{
-			"name": "RM03",
+			"name": "RM03 Hydratic Blade",
 			"rarity": "rare",
-			"mana_cost": "{W}{U}",
-			"type": "Sorcery",
-			"collector_number": "220",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Enchantment — Aura",
+			"collector_number": "215",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/185.png"
 			}
@@ -1865,17 +1865,17 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{U}{B}",
 			"type": "Creature — Spirit Knight",
-			"collector_number": "210",
+			"collector_number": "208",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/186.png"
 			}
 		},
 		{
-			"name": "RM03",
+			"name": "RM03 Energize",
 			"rarity": "rare",
-			"mana_cost": "{U}{B}",
-			"type": "Instant",
-			"collector_number": "218",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "214",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/187.png"
 			}
@@ -1885,16 +1885,16 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Legendary Creature — Phoenix Elemental",
-			"collector_number": "212",
+			"collector_number": "210",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/188.png"
 			}
 		},
 		{
-			"name": "RM03",
+			"name": "RM03 Resurrection of Flame",
 			"rarity": "rare",
-			"mana_cost": "{B}{R}",
-			"type": "Instant",
+			"mana_cost": "{3}{B}{R}",
+			"type": "Enchantment",
 			"collector_number": "217",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/189.png"
@@ -1905,17 +1905,17 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Fungus Thrall",
-			"collector_number": "209",
+			"collector_number": "207",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/190.png"
 			}
 		},
 		{
-			"name": "RM03",
+			"name": "RM03 The Forest for the Trees",
 			"rarity": "rare",
-			"mana_cost": "{R}{G}",
-			"type": "Instant",
-			"collector_number": "216",
+			"mana_cost": "{3}{R}{G}",
+			"type": "Enchantment",
+			"collector_number": "218",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/191.png"
 			}
@@ -1925,7 +1925,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Creature — Turtle Elemental",
-			"collector_number": "206",
+			"collector_number": "204",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/192.png"
 			}
@@ -1935,7 +1935,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "222",
+			"collector_number": "220",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/193.png"
 			}
@@ -1945,7 +1945,7 @@
 			"rarity": "rare",
 			"mana_cost": "{X}{W}{U}",
 			"type": "Legendary Creature — Elemental Hydra",
-			"collector_number": "214",
+			"collector_number": "212",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/194.png"
 			}
@@ -1955,7 +1955,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}",
 			"type": "Instant",
-			"collector_number": "225",
+			"collector_number": "223",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/195.png"
 			}
@@ -1965,7 +1965,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Fungus Noble",
-			"collector_number": "211",
+			"collector_number": "209",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/196.png"
 			}
@@ -1975,7 +1975,7 @@
 			"rarity": "rare",
 			"mana_cost": "{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "223",
+			"collector_number": "221",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/197.png"
 			}
@@ -1985,7 +1985,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Creature — Snake Elemental",
-			"collector_number": "207",
+			"collector_number": "205",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/198.png"
 			}
@@ -1995,7 +1995,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "224",
+			"collector_number": "222",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/199.png"
 			}
@@ -2005,17 +2005,17 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Creature — Merfolk Knight",
-			"collector_number": "208",
+			"collector_number": "206",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/200.png"
 			}
 		},
 		{
-			"name": "RM03",
+			"name": "RM03 Manasynth Charge",
 			"rarity": "rare",
-			"mana_cost": "{G}{W}",
-			"type": "Instant",
-			"collector_number": "219",
+			"mana_cost": "{2}{G}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "216",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/201.png"
 			}
@@ -2025,7 +2025,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Turtle Hydra",
-			"collector_number": "213",
+			"collector_number": "211",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/202.png"
 			}
@@ -2035,7 +2035,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Sorcery",
-			"collector_number": "221",
+			"collector_number": "219",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/203.png"
 			}
@@ -2045,7 +2045,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{W}{U}{U}",
 			"type": "Legendary Creature — Serpent Elemental",
-			"collector_number": "197",
+			"collector_number": "195",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/204.png"
 			}
@@ -2055,7 +2055,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{U}{B}{B}",
 			"type": "Legendary Creature — Spirit Elemental",
-			"collector_number": "200",
+			"collector_number": "198",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/205.png"
 			}
@@ -2065,7 +2065,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{R}{G}",
 			"type": "Legendary Creature — Dinosaur Elemental",
-			"collector_number": "198",
+			"collector_number": "196",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/206.png"
 			}
@@ -2075,7 +2075,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{B}{R}{R}",
 			"type": "Legendary Creature — Phoenix Elemental",
-			"collector_number": "196",
+			"collector_number": "194",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/207.png"
 			}
@@ -2085,7 +2085,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{G}{W}",
 			"type": "Legendary Creature — Dragon Elemental",
-			"collector_number": "199",
+			"collector_number": "197",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/208.png"
 			}
@@ -2095,7 +2095,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Enchantment",
-			"collector_number": "202",
+			"collector_number": "200",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/209.png"
 			}
@@ -2105,7 +2105,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{4}{B}{R}",
 			"type": "Legendary Enchantment",
-			"collector_number": "205",
+			"collector_number": "203",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/210.png"
 			}
@@ -2115,7 +2115,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Legendary Enchantment",
-			"collector_number": "204",
+			"collector_number": "202",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/211.png"
 			}
@@ -2125,7 +2125,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Legendary Enchantment",
-			"collector_number": "203",
+			"collector_number": "201",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/212.png"
 			}
@@ -2135,7 +2135,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Legendary Enchantment",
-			"collector_number": "201",
+			"collector_number": "199",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/213.png"
 			}
@@ -2145,7 +2145,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "246",
+			"collector_number": "244",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/214.png"
 			}
@@ -2155,7 +2155,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact Creature — Construct",
-			"collector_number": "250",
+			"collector_number": "248",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/215.png"
 			}
@@ -2165,7 +2165,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "248",
+			"collector_number": "246",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/216.png"
 			}
@@ -2175,7 +2175,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "258",
+			"collector_number": "256",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/217.png"
 			}
@@ -2185,7 +2185,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}",
 			"type": "Artifact Creature — Golem",
-			"collector_number": "249",
+			"collector_number": "247",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/218.png"
 			}
@@ -2195,7 +2195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact",
-			"collector_number": "254",
+			"collector_number": "252",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/219.png"
 			}
@@ -2205,7 +2205,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "255",
+			"collector_number": "253",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/220.png"
 			}
@@ -2215,7 +2215,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "259",
+			"collector_number": "257",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/221.png"
 			}
@@ -2225,7 +2225,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "260",
+			"collector_number": "258",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/222.png"
 			}
@@ -2235,7 +2235,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "261",
+			"collector_number": "259",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/223.png"
 			}
@@ -2245,7 +2245,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "262",
+			"collector_number": "260",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/224.png"
 			}
@@ -2255,7 +2255,7 @@
 			"rarity": "common",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "263",
+			"collector_number": "261",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/225.png"
 			}
@@ -2315,7 +2315,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Swamp Mountain",
-			"collector_number": "266",
+			"collector_number": "264",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/231.png"
 			}
@@ -2325,7 +2325,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Island Swamp",
-			"collector_number": "268",
+			"collector_number": "266",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/232.png"
 			}
@@ -2335,7 +2335,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Forest Plains",
-			"collector_number": "265",
+			"collector_number": "263",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/233.png"
 			}
@@ -2345,7 +2345,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Mountain Forest",
-			"collector_number": "267",
+			"collector_number": "265",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/234.png"
 			}
@@ -2355,7 +2355,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{U}",
 			"type": "Creature — Merfolk Snake Soldier",
-			"collector_number": "226",
+			"collector_number": "224",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/235.png"
 			}
@@ -2365,7 +2365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Legendary Creature — Dragon Avatar",
-			"collector_number": "235",
+			"collector_number": "233",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/236.png"
 			}
@@ -2375,7 +2375,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Creature — Spirit Elemental",
-			"collector_number": "229",
+			"collector_number": "227",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/237.png"
 			}
@@ -2385,7 +2385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Legendary Creature — Spirit Avatar",
-			"collector_number": "232",
+			"collector_number": "230",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/238.png"
 			}
@@ -2395,7 +2395,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{B}",
 			"type": "Creature — Dinosaur Spirit",
-			"collector_number": "78",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/239.png"
 			}
@@ -2405,7 +2405,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Legendary Creature — Phoenix Avatar",
-			"collector_number": "234",
+			"collector_number": "232",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/240.png"
 			}
@@ -2415,7 +2415,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Troll Druid",
-			"collector_number": "228",
+			"collector_number": "226",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/241.png"
 			}
@@ -2425,7 +2425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Legendary Creature — Dinosaur Avatar",
-			"collector_number": "233",
+			"collector_number": "231",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/242.png"
 			}
@@ -2435,7 +2435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Creature — Griffin",
-			"collector_number": "230",
+			"collector_number": "228",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/243.png"
 			}
@@ -2445,7 +2445,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{G}{W}",
 			"type": "Legendary Creature — Elk Avatar",
-			"collector_number": "231",
+			"collector_number": "229",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/244.png"
 			}
@@ -2455,7 +2455,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Instant",
-			"collector_number": "236",
+			"collector_number": "234",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/245.png"
 			}
@@ -2465,7 +2465,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{W}{U}",
 			"type": "Enchantment — Aura",
-			"collector_number": "244",
+			"collector_number": "242",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/246.png"
 			}
@@ -2475,7 +2475,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Instant",
-			"collector_number": "239",
+			"collector_number": "237",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/247.png"
 			}
@@ -2485,7 +2485,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "243",
+			"collector_number": "241",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/248.png"
 			}
@@ -2495,7 +2495,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Sorcery",
-			"collector_number": "240",
+			"collector_number": "238",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/249.png"
 			}
@@ -2505,7 +2505,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Enchantment",
-			"collector_number": "242",
+			"collector_number": "240",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/250.png"
 			}
@@ -2515,7 +2515,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}{R}",
 			"type": "Sorcery",
-			"collector_number": "238",
+			"collector_number": "236",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/251.png"
 			}
@@ -2525,7 +2525,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Enchantment",
-			"collector_number": "241",
+			"collector_number": "239",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/252.png"
 			}
@@ -2535,7 +2535,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{W}",
 			"type": "Sorcery",
-			"collector_number": "237",
+			"collector_number": "235",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/253.png"
 			}
@@ -2545,7 +2545,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}",
 			"type": "Enchantment",
-			"collector_number": "245",
+			"collector_number": "243",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/254.png"
 			}
@@ -2665,7 +2665,7 @@
 			"rarity": "rare",
 			"mana_cost": "",
 			"type": "Land — Plains Island",
-			"collector_number": "264",
+			"collector_number": "262",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/266.png"
 			}
@@ -2695,7 +2695,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Faerie Spirit",
-			"collector_number": "193",
+			"collector_number": "191",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/269.png"
 			}
@@ -2705,7 +2705,7 @@
 			"rarity": "common",
 			"mana_cost": "{U}{B}",
 			"type": "Creature — Plant Turtle",
-			"collector_number": "190",
+			"collector_number": "188",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/270.png"
 			}
@@ -2715,7 +2715,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Elemental Sorcerer",
-			"collector_number": "186",
+			"collector_number": "184",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/271.png"
 			}
@@ -2725,7 +2725,7 @@
 			"rarity": "common",
 			"mana_cost": "{3}{R}{G}",
 			"type": "Creature — Dragon",
-			"collector_number": "188",
+			"collector_number": "186",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/272.png"
 			}
@@ -2735,7 +2735,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Griffin",
-			"collector_number": "195",
+			"collector_number": "193",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/273.png"
 			}
@@ -2745,7 +2745,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Creature — Merfolk",
-			"collector_number": "189",
+			"collector_number": "187",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/274.png"
 			}
@@ -2755,7 +2755,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Creature — Lizard Serpent",
-			"collector_number": "191",
+			"collector_number": "189",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/275.png"
 			}
@@ -2765,7 +2765,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Creature — Dinosaur Elemental",
-			"collector_number": "194",
+			"collector_number": "192",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/276.png"
 			}
@@ -2775,7 +2775,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{G}",
 			"type": "Creature — Beast",
-			"collector_number": "192",
+			"collector_number": "190",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/277.png"
 			}
@@ -2785,7 +2785,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Creature — Orc Bard",
-			"collector_number": "187",
+			"collector_number": "185",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/278.png"
 			}
@@ -2825,7 +2825,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{U}{U}",
 			"type": "Creature — Dinosaur",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/282.png"
 			}
@@ -2875,7 +2875,7 @@
 			"rarity": "special",
 			"mana_cost": "{1}{G}{U}{R}",
 			"type": "Legendary Creature — Elemental",
-			"collector_number": "4",
+			"collector_number": "6",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/287.png"
 			}
@@ -2915,7 +2915,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}",
 			"type": "Artifact — Equipment",
-			"collector_number": "257",
+			"collector_number": "255",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/291.png"
 			}
@@ -2925,7 +2925,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "256",
+			"collector_number": "254",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/292.png"
 			}
@@ -2935,7 +2935,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact",
-			"collector_number": "253",
+			"collector_number": "251",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/293.png"
 			}
@@ -2945,7 +2945,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}",
 			"type": "Artifact — Equipment",
-			"collector_number": "247",
+			"collector_number": "245",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/294.png"
 			}
@@ -2955,7 +2955,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}",
 			"type": "Artifact — Equipment",
-			"collector_number": "252",
+			"collector_number": "250",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/295.png"
 			}
@@ -2965,7 +2965,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{5}",
 			"type": "Legendary Artifact — Equipment",
-			"collector_number": "251",
+			"collector_number": "249",
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/296.png"
 			}
@@ -2989,63 +2989,82 @@
 			"image_uris": {
 				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/298.png"
 			}
+		},
+		{
+			"name": "Briarhorn",
+			"rarity": "special",
+			"mana_cost": "{3}{G}",
+			"type": "Creature — Elemental",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/299.png"
+			}
+		},
+		{
+			"name": "Animar, Soul of Elements",
+			"rarity": "special",
+			"mana_cost": "{G}{U}{R}",
+			"type": "Legendary Creature — Elemental",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://lotusqueen440.github.io/sets/SKL-files/img/300.png"
+			}
 		}
 	]
 
 [rare(1)]
 	2 RW05 Path to Exile
 	2 RW01 Vital Shimmerwing
-	2 RW02
+	2 RW02 Ivory Corps Lieutenant
 	2 RW03 Proud Sailback
 	2 RW04 Favor of the Wilds
-	2 RW06
-	2 RW07
-	2 RU01 Bar'rykian Oarfish
-	2 RU02
-	2 RU03
-	2 RU04
-	2 RU05
-	2 RU06
-	2 RU07
+	2 RW06 Glimmer Stream
+	2 RW07 Bountiful Harvest
+	2 RU03 Bar'rykian Oarfish
+	2 RU02 Bar'rykian Thresher
+	2 RU01 Diving Sailback
+	2 RU04 Yield to Nothingness
+	2 RU05 Bar'ryk, the Fathomless Expanse
+	2 RU06 Fathom Multitudes
+	2 RU07 Grasp the Mind
 	2 RB01 Fen Lurker
 	2 RB02
-	2 RB03
+	2 RB03 Ydra, Mother of Rebirth
 	2 RB04
 	2 RB05
 	2 RB06
-	2 RB07
-	2 RR01
-	2 RR02
-	2 RR03
+	2 RB07 Ydra's Last Stand
+	2 RR01 Magma Jackal
+	2 RR02 Intense Aegisaur
+	2 RR03 Infernus Hellkite
 	2 RR04
 	2 RR05
-	2 RR06
+	1 MR02 Assured Bombardment
 	2 RR07 Vigor of Cor-Bask
 	2 RG01
-	2 RG02
+	2 RG02 Eritah, Priestess of Cor-Bask
 	2 RG03 Cor-Bask Herdcaller
 	2 RG04
 	2 RG05
 	2 RG06
 	2 RG07
-	1 MW01
-	1 MW02
-	1 MU01
+	1 MW01 Rys Ke'fal, Crown of the Ivory Corps
+	1 MU01 Harness Tomorrow
 	1 MU02 Alyka, Bar'rykian Princess
-	1 MB01
+	1 MB01 Shadeborne Ghast
 	1 MB02 Xrk, The Antlered One
-	1 MR01
-	1 MR02
-	1 MG01
+	1 MR01 Eruption of Kret Val
+	2 RR06 Kret Val, Nest of Rebirth
+	1 MG01 Scicleclaw Ravager
 	1 MG02 Chak'nul, Essence of Cor-Bask
 	2 RM02 The Abhorrent One
-	2 RM03
+	2 RM03 Hydratic Blade
 	2 RM01 Spirit Rider
-	2 RM03
+	2 RM03 Energize
 	2 RM02 Lyth, Kindleborn Phoenix
-	2 RM03
+	2 RM03 Resurrection of Flame
 	2 RM01 Mycelial Thrall
-	2 RM03
+	2 RM03 The Forest for the Trees
 	2 RM01 Faestone Tortoise
 	2 RM04 Manasynth Wave
 	2 RM02 Thaskar, Rage of the Sea
@@ -3055,7 +3074,7 @@
 	2 RM01 Magma Viper
 	2 RM04 Reborn from Ash
 	2 RM01 Mounted Merfolk
-	2 RM03
+	2 RM03 Manasynth Charge
 	2 RM02 Ol'grak, Living Forest
 	2 RM04 Controlled Burn
 	1 MM01 Klysma, Sea's Essence
@@ -3181,7 +3200,7 @@
 	8 CW04 Twinspirit Faeries
 	8 CW02 Crystalline Guardian
 	8 CW01 Watchful Crane
-	8 CW06 Ivory Griffonrider
+	8 CW06 Ivory Corps Griffonrider
 	8 CW05 Aerial Assault Unit
 	8 CW03 Heralded Captain
 	8 CW07 Fae Bloomtender
@@ -3272,7 +3291,7 @@
 	8 CW04 Twinspirit Faeries
 	8 CW02 Crystalline Guardian
 	8 CW01 Watchful Crane
-	8 CW06 Ivory Griffonrider
+	8 CW06 Ivory Corps Griffonrider
 	8 CW05 Aerial Assault Unit
 	8 CW03 Heralded Captain
 	8 CW07 Fae Bloomtender
@@ -3363,11 +3382,13 @@
 	3 Avenger of Zendikar
 	3 Omnath, Locus of the Roil
 	8 CA02 Staff of Life
+	3 Briarhorn
+	3 Animar, Soul of Elements
 [foil(1)]
 	12 CW04 Twinspirit Faeries
 	12 CW02 Crystalline Guardian
 	12 CW01 Watchful Crane
-	12 CW06 Ivory Griffonrider
+	12 CW06 Ivory Corps Griffonrider
 	12 CW05 Aerial Assault Unit
 	12 CW03 Heralded Captain
 	12 CW07 Fae Bloomtender
@@ -3504,58 +3525,57 @@
 	12 CG13 Nature's Wisdom
 	6 UG14 Cor-Bask Vitality
 	2 RW01 Vital Shimmerwing
-	2 RW02
+	2 RW02 Ivory Corps Lieutenant
 	2 RW03 Proud Sailback
 	2 RW04 Favor of the Wilds
 	6 UW06 Brilliant Thrust
-	2 RW06
-	2 RW07
-	2 RU01 Bar'rykian Oarfish
-	2 RU02
-	2 RU03
-	2 RU04
-	2 RU05
-	2 RU06
-	2 RU07
+	2 RW06 Glimmer Stream
+	2 RW07 Bountiful Harvest
+	2 RU03 Bar'rykian Oarfish
+	2 RU02 Bar'rykian Thresher
+	2 RU01 Diving Sailback
+	2 RU04 Yield to Nothingness
+	2 RU05 Bar'ryk, the Fathomless Expanse
+	2 RU06 Fathom Multitudes
+	2 RU07 Grasp the Mind
 	2 RB01 Fen Lurker
 	2 RB02
-	2 RB03
+	2 RB03 Ydra, Mother of Rebirth
 	2 RB04
 	2 RB05
 	2 RB06
-	2 RB07
-	2 RR01
-	2 RR02
-	2 RR03
+	2 RB07 Ydra's Last Stand
+	2 RR01 Magma Jackal
+	2 RR02 Intense Aegisaur
+	2 RR03 Infernus Hellkite
 	2 RR04
 	2 RR05
-	2 RR06
+	1 MR02 Assured Bombardment
 	2 RR07 Vigor of Cor-Bask
 	2 RG01
-	2 RG02
+	2 RG02 Eritah, Priestess of Cor-Bask
 	2 RG03 Cor-Bask Herdcaller
 	2 RG04
 	2 RG05
 	2 RG06
 	2 RG07
-	1 MW01
-	1 MW02
-	1 MU01
+	1 MW01 Rys Ke'fal, Crown of the Ivory Corps
+	1 MU01 Harness Tomorrow
 	1 MU02 Alyka, Bar'rykian Princess
-	1 MB01
+	1 MB01 Shadeborne Ghast
 	1 MB02 Xrk, The Antlered One
-	1 MR01
-	1 MR02
-	1 MG01
+	1 MR01 Eruption of Kret Val
+	2 RR06 Kret Val, Nest of Rebirth
+	1 MG01 Scicleclaw Ravager
 	1 MG02 Chak'nul, Essence of Cor-Bask
 	2 RM02 The Abhorrent One
-	2 RM03
+	2 RM03 Hydratic Blade
 	2 RM01 Spirit Rider
-	2 RM03
+	2 RM03 Energize
 	2 RM02 Lyth, Kindleborn Phoenix
-	2 RM03
+	2 RM03 Resurrection of Flame
 	2 RM01 Mycelial Thrall
-	2 RM03
+	2 RM03 The Forest for the Trees
 	2 RM01 Faestone Tortoise
 	2 RM04 Manasynth Wave
 	2 RM02 Thaskar, Rage of the Sea
@@ -3565,7 +3585,7 @@
 	2 RM01 Magma Viper
 	2 RM04 Reborn from Ash
 	2 RM01 Mounted Merfolk
-	2 RM03
+	2 RM03 Manasynth Charge
 	2 RM02 Ol'grak, Living Forest
 	2 RM04 Controlled Burn
 	1 MM01 Klysma, Sea's Essence
@@ -3641,7 +3661,7 @@
 	6 CW04 Twinspirit Faeries
 	6 CW02 Crystalline Guardian
 	6 CW01 Watchful Crane
-	6 CW06 Ivory Griffonrider
+	6 CW06 Ivory Corps Griffonrider
 	6 CW05 Aerial Assault Unit
 	6 CW03 Heralded Captain
 	6 CW07 Fae Bloomtender
@@ -3778,58 +3798,57 @@
 	6 CG13 Nature's Wisdom
 	15 UG14 Cor-Bask Vitality
 	7 RW01 Vital Shimmerwing
-	7 RW02
+	7 RW02 Ivory Corps Lieutenant
 	7 RW03 Proud Sailback
 	7 RW04 Favor of the Wilds
 	15 UW06 Brilliant Thrust
-	7 RW06
-	7 RW07
-	7 RU01 Bar'rykian Oarfish
-	7 RU02
-	7 RU03
-	7 RU04
-	7 RU05
-	7 RU06
-	7 RU07
+	7 RW06 Glimmer Stream
+	7 RW07 Bountiful Harvest
+	7 RU03 Bar'rykian Oarfish
+	7 RU02 Bar'rykian Thresher
+	7 RU01 Diving Sailback
+	7 RU04 Yield to Nothingness
+	7 RU05 Bar'ryk, the Fathomless Expanse
+	7 RU06 Fathom Multitudes
+	7 RU07 Grasp the Mind
 	7 RB01 Fen Lurker
 	7 RB02
-	7 RB03
+	7 RB03 Ydra, Mother of Rebirth
 	7 RB04
 	7 RB05
 	7 RB06
-	7 RB07
-	7 RR01
-	7 RR02
-	7 RR03
+	7 RB07 Ydra's Last Stand
+	7 RR01 Magma Jackal
+	7 RR02 Intense Aegisaur
+	7 RR03 Infernus Hellkite
 	7 RR04
 	7 RR05
-	7 RR06
+	4 MR02 Assured Bombardment
 	7 RR07 Vigor of Cor-Bask
 	7 RG01
-	7 RG02
+	7 RG02 Eritah, Priestess of Cor-Bask
 	7 RG03 Cor-Bask Herdcaller
 	7 RG04
 	7 RG05
 	7 RG06
 	7 RG07
-	4 MW01
-	4 MW02
-	4 MU01
+	4 MW01 Rys Ke'fal, Crown of the Ivory Corps
+	4 MU01 Harness Tomorrow
 	4 MU02 Alyka, Bar'rykian Princess
-	4 MB01
+	4 MB01 Shadeborne Ghast
 	4 MB02 Xrk, The Antlered One
-	4 MR01
-	4 MR02
-	4 MG01
+	4 MR01 Eruption of Kret Val
+	7 RR06 Kret Val, Nest of Rebirth
+	4 MG01 Scicleclaw Ravager
 	4 MG02 Chak'nul, Essence of Cor-Bask
 	7 RM02 The Abhorrent One
-	7 RM03
+	7 RM03 Hydratic Blade
 	7 RM01 Spirit Rider
-	7 RM03
+	7 RM03 Energize
 	7 RM02 Lyth, Kindleborn Phoenix
-	7 RM03
+	7 RM03 Resurrection of Flame
 	7 RM01 Mycelial Thrall
-	7 RM03
+	7 RM03 The Forest for the Trees
 	7 RM01 Faestone Tortoise
 	7 RM04 Manasynth Wave
 	7 RM02 Thaskar, Rage of the Sea
@@ -3839,7 +3858,7 @@
 	7 RM01 Magma Viper
 	7 RM04 Reborn from Ash
 	7 RM01 Mounted Merfolk
-	7 RM03
+	7 RM03 Manasynth Charge
 	7 RM02 Ol'grak, Living Forest
 	7 RM04 Controlled Burn
 	4 MM01 Klysma, Sea's Essence

@@ -1,4 +1,96 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+CW06 Ivory Corps Griffonrider added.
+RW02 Ivory Corps Lieutenant added.
+RW06 Glimmer Stream added.
+RW07 Bountiful Harvest added.
+RU03 Bar'rykian Oarfish added.
+RU02 Bar'rykian Thresher added.
+RU01 Diving Sailback added.
+RU04 Yield to Nothingness added.
+RU05 Bar'ryk, the Fathomless Expanse added.
+RU06 Fathom Multitudes added.
+RU07 Grasp the Mind added.
+RB03 Ydra, Mother of Rebirth added.
+RB07 Ydra's Last Stand added.
+RR01 Magma Jackal added.
+RR02 Intense Aegisaur added.
+RR03 Infernus Hellkite added.
+MR02 Assured Bombardment added.
+RG02 Eritah, Priestess of Cor-Bask added.
+MW01 Rys Ke'fal, Crown of the Ivory Corps added.
+MW02 Absolution added.
+MU01 Harness Tomorrow added.
+MB01 Shadeborne Ghast added.
+MR01 Eruption of Kret Val added.
+RR06 Kret Val, Nest of Rebirth added.
+MG01 Scicleclaw Ravager added.
+RM03 Hydratic Blade added.
+RM03 Energize added.
+RM03 Resurrection of Flame added.
+RM03 The Forest for the Trees added.
+RM03 Manasynth Charge added.
+Briarhorn added.
+Animar, Soul of Elements added.
+
+CW06 Ivory Griffonrider removed.
+RW02 removed.
+RW06 removed.
+RW07 removed.
+RU01 Bar'rykian Oarfish removed.
+RU02 removed.
+RU03 removed.
+RU04 removed.
+RU05 removed.
+RU06 removed.
+RU07 removed.
+RB03 removed.
+RB07 removed.
+RR01 removed.
+RR02 removed.
+RR03 removed.
+RR06 removed.
+RG02 removed.
+MW01 removed.
+MW02 removed.
+MU01 removed.
+MB01 removed.
+MR01 removed.
+MR02 removed.
+MG01 removed.
+RM03 removed.
+RM03 removed.
+RM03 removed.
+RM03 removed.
+RM03 removed.
+
+CW03 Heralded Captain
+rules_text: Vigilance
+[i]Infusion[/i] — When this creature enters, if you gained life this turn, you may return an artifact or enchantment card from your graveyard to your hand. => Vigilance
+[i]Infusion[/i] — When this creature enters, you may return an artifact or enchantment card from your graveyard to your hand if you gained life this turn.
+
+CU02 Spirit of the Mists
+rules_text: When this creature dies, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+
+CB11 Reassemble
+
+UW02 Glitterwing Dragoons
+type: Creature — Faerie Knight => Creature — Faerie Soldier
+
+RG06
+type: Creature => Sorcery
+
+MM01 Vivlokar, Brush Drake
+pt: 3/4 => 4/4
+
+MM02 Blessing of the Brush Drake
+rules_text: Whenever a nontoken creature enters under your control, you gain life equal to its mana value.
+Whenever a token creature enters under your control, put a +1/+1 counter on it. => Whenever a nontoken creature you control enters, you gain life equal to its mana value.
+Whenever a token creature you control enters, put a +1/+1 counter on it.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 UW13 Battle Preparations added.
