@@ -3694,14 +3694,14 @@
             "flavor_text": "[i]And on that day of reckoning, let nothing survive.[/i]",
             "pt": "",
             "special_text": "",
-            "shape": "token",
+            "shape": "normal",
             "set": "SKL",
             "loyalty": "",
             "artist": "Virginie Juteau",
             "alias": "",
             "position": "175",
             "rotated": false,
-            "notes": "!token Spirit1<X>"
+            "notes": "!tokens Spirit1<X>"
         },
         {
             "card_name": "MU01 Harness Tomorrow",

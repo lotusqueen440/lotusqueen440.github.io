@@ -3034,7 +3034,7 @@ Other creatures you control get +1/+1 for each Aura and Equipment attached to Ry
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>MW02 Absolution SKL</name>
+			<name>MW02 Absolution</name>
 			<text>Destroy all creatures and planeswalkers. Then, for each permanent destroyed this way, create a 1/1 white Spirit creature token.</text>
 			<set rarity="mythic" picurl="https://lotusqueen440.github.io/sets/SKL-files/img/175.png" num="16">SKL</set>
 			<prop>
@@ -3048,7 +3048,7 @@ Other creatures you control get +1/+1 for each Aura and Equipment attached to Ry
 				<coloridentity>W</coloridentity>
 			</prop>
 			<tablerow>3</tablerow>
-			<token>1</token>
+			<related count="X">Spirit1</related>
 		</card>
 		<card>
 			<name>MU01 Harness Tomorrow</name>

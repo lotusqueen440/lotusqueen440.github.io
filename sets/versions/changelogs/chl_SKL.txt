@@ -1,4 +1,12 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+
+
+MW02 Absolution
+
+
+VERSION 5 CHANGELOG
 ====================
 
 CW06 Ivory Corps Griffonrider added.

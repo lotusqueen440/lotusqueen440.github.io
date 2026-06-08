@@ -3049,6 +3049,7 @@
 	2 RG06
 	2 RG07
 	1 MW01 Rys Ke'fal, Crown of the Ivory Corps
+	1 MW02 Absolution
 	1 MU01 Harness Tomorrow
 	1 MU02 Alyka, Bar'rykian Princess
 	1 MB01 Shadeborne Ghast
@@ -3560,6 +3561,7 @@
 	2 RG06
 	2 RG07
 	1 MW01 Rys Ke'fal, Crown of the Ivory Corps
+	1 MW02 Absolution
 	1 MU01 Harness Tomorrow
 	1 MU02 Alyka, Bar'rykian Princess
 	1 MB01 Shadeborne Ghast
@@ -3833,6 +3835,7 @@
 	7 RG06
 	7 RG07
 	4 MW01 Rys Ke'fal, Crown of the Ivory Corps
+	4 MW02 Absolution
 	4 MU01 Harness Tomorrow
 	4 MU02 Alyka, Bar'rykian Princess
 	4 MB01 Shadeborne Ghast
