@@ -1,4 +1,634 @@
-﻿VERSION 6 CHANGELOG
+﻿VERSION 7 CHANGELOG
+====================
+
+Twinspirit Faeries added.
+Crystalline Guardian added.
+Watchful Crane added.
+Ivory Corps Griffonrider added.
+Aerial Assault Unit added.
+Heralded Captain added.
+Fae Bloomtender added.
+Mischevious Wildsoul added.
+For the Legion! added.
+Decided Strike added.
+Cosmic Smite added.
+Runic Shield added.
+One with the Cosmos added.
+Aural Invigoration added.
+Azure Corps Duelist added.
+Spirit of the Mists added.
+Merfolk Orator added.
+Ghasthawk added.
+Rowdy Flock added.
+Consider added.
+Forsee Consequences added.
+Diplomatic Consideration added.
+Bar'ryk Reclaims added.
+Upon the Sea and Sky added.
+Stray from the Group added.
+Sparked Wits added.
+Seafarer's Wings added.
+Siren's Song added.
+Decaying Spirit added.
+Flesh-torn Hellbeast added.
+Hellform Crocodile added.
+Shadecrow Rooster added.
+Blighted Faerie added.
+Direwolf Scourge added.
+Spirit Reap added.
+Murder added.
+Stoneskin Rebuke added.
+Tragic Betrayal added.
+Reassemble added.
+Essence Siphon added.
+Pact of Rebirth added.
+Faeveil Curse added.
+Golden Phoenix added.
+Phoenix Hatchlings added.
+Pyromantic Peafowl added.
+Kindled-Spirit Wolf added.
+Infernal Dragonkin added.
+Lavabreacher added.
+Pyretic Flash added.
+Phoenix Crash added.
+Abrade added.
+Unbridled Fury added.
+Stoke the Blazes added.
+Flamebreath added.
+Wake of Flame added.
+Instilled Wrath added.
+Dragonfly Nymph added.
+Blooming Mantis added.
+Vengeful Bramblekin added.
+Corrupt Viviomancer added.
+Cor-Bask Druid added.
+Fungal Titan added.
+Mossridge Baloth added.
+Flytrap Monstrosity added.
+Shield of Lilies added.
+Cultivate added.
+Hunt and Scavenge added.
+Ensnaring Charm added.
+Intimidation Technique added.
+Bayou Nutrients added.
+Abhorrent Elk added.
+Glitterwing Dragoons added.
+Ferocidon Strikeleader added.
+Search and Rescue Unit added.
+Path to Exile added.
+Klysmatic Protection added.
+Prophetic Light added.
+Call the Spirits added.
+The Final Stand added.
+Spiritual Rejuvenation added.
+Gargantuan Dawnwing added.
+Binding Sun added.
+Battle Preparations added.
+Leyline Channeling added.
+Bar'rykkian Roughrapids added.
+Azure Corps Pikeman added.
+Azure Corps Blademaster added.
+Cyclone Elder added.
+Sea No Evil added.
+Fierce Cunning added.
+Bar'ryk Seaform added.
+Spiritual Uprising added.
+Twenty Thousand Leagues added.
+From Whence You Came added.
+Home of the Lost added.
+Grasp of the Goddess added.
+Seafoam Cloaking added.
+Bayou Knight added.
+Guide to Nowhere added.
+Crumbling Earth added.
+Mak Rutan, Cardinal of Sin added.
+Crow-keeper Wraith added.
+Swampblood Gorger added.
+Unpromised Tomorrows added.
+Miasma added.
+Trickster's Charm added.
+Edict of Mak added.
+Befitting Tragedy added.
+Mind Echoes added.
+Sacrificial Demesne added.
+Gift of the Bayou Maiden added.
+Floe Elemental added.
+Kindleblade Wizard added.
+Smoldering Charger added.
+Vecthros, Tyrant of Riches added.
+Involuntary Immolation added.
+Lava Swipe added.
+Elemental Offering added.
+Rekindle Flames added.
+Cathartic Reunion added.
+Magmatic Genesis added.
+Unbridled Assault added.
+Simple Miscommunication added.
+Elemental Command added.
+Foregone Ritual added.
+Cor-Bask Flautist added.
+Bramblewolf added.
+Protector of the Deep Forests added.
+Lost Traveller added.
+Overgrown Ridgeback added.
+Heletcha, Oracle of Life added.
+Rampaging Carnosaur added.
+Ritual Strength added.
+Stampede of Tyrants added.
+Prey upon the Weak added.
+Wild Brew added.
+Collect Specimens added.
+Nature's Wisdom added.
+Cor-Bask Vitality added.
+Vital Shimmerwing added.
+Ivory Corps Lieutenant added.
+Proud Sailback added.
+Favor of the Wilds added.
+Brilliant Thrust added.
+Glimmer Stream added.
+Bountiful Harvest added.
+Bar'rykian Oarfish added.
+Bar'rykian Thresher added.
+Diving Sailback added.
+Yield to Nothingness added.
+Fathom Multitudes added.
+Grasp the Mind added.
+Fen Lurker added.
+Knight of Fallen Dreams added.
+Ydra, Mother of Rebirth added.
+Premature Desolation added.
+Altar of Offerings added.
+Cruel Devastation added.
+Ydra's Last Stand added.
+Magma Jackal added.
+Intense Aegisaur added.
+Infernus Hellkite added.
+Manipulate Tempest added.
+Crucible of Chaos added.
+Assured Bombardment added.
+Vigor of Cor-Bask added.
+Corgoyf added.
+Eritah, Priestess of Cor-Bask added.
+Cor-Bask Herdcaller added.
+Kindly Treeheart added.
+Grand Regisaur added.
+Verdant Bloom added.
+Cor-Bask, the Sacred Forest added.
+Rys Ke'fal, Crown of the Ivory Corps added.
+Absolution added.
+Harness Tomorrow added.
+Shadeborne Ghast added.
+Eruption of Kret Val added.
+Kret Val, Nest of Rebirth added.
+Scicleclaw Ravager added.
+The Abhorrent One added.
+Hydratic Blade added.
+Spirit Rider added.
+Energize added.
+Lyth, Kindleborn Phoenix added.
+Resurrection of Flame added.
+Mycelial Thrall added.
+The Forest for the Trees added.
+Faestone Tortoise added.
+Manasynth Wave added.
+Thaskar, Rage of the Sea added.
+Seal Away added.
+Ikthyll, Duchess of Cor-Bask added.
+Portal to Yesterday added.
+Magma Viper added.
+Reborn from Ash added.
+Mounted Merfolk added.
+Manasynth Charge added.
+Ol'grak, Living Forest added.
+Controlled Burn added.
+Klysma, Sea's Essence added.
+Whisp, Lone Wanderer added.
+Ryklos, Stampeding Tyrant added.
+Ekthar, Void Phoenix added.
+Vivlokar, Brush Drake added.
+Blessing of the Lone Wanderer added.
+Blessing of the Void Phoenix added.
+Blessing of the Stampede Tyrant added.
+Blessing of the Sea's Essence added.
+Blessing of the Brush Drake added.
+Heroic Catapult added.
+Rejuvination Buddy added.
+Etched Scythe added.
+Quickstrike Dagger added.
+Surveyor Golem added.
+Jeweled Lens added.
+Revalation Blade added.
+Calm-Shores Passage added.
+Steady-Climb Passage added.
+Infernus Passage added.
+Cragbrush Passage added.
+Misthollow Passage added.
+Verdant Prairie added.
+Kindled Glen added.
+Tidal Expanse added.
+Accursed Aquifer added.
+Volcanic Crypt added.
+Altar of the Phoenix added.
+Cathedral of Damnation added.
+Vast Countryside added.
+Briarthorn Ravine added.
+Azure Corps Captain added.
+Vrel, Avatar of Klysma added.
+Stormghast Colossus added.
+Gritt, Avatar of Whisp added.
+Ferocidon Apparition added.
+Kriz, Avatar of Ekthar added.
+Stampede Charmer added.
+Hork, Avatar of Ryklos added.
+Sunbreach Griffin added.
+Aurum, Avatar of Vivlokar added.
+Absorb Magic added.
+Vigor of Champions added.
+Reckless Rampage added.
+The Will of Whisp added.
+Spirit Break added.
+Kindling added.
+Enthralling Rebirth added.
+Herd Tactics added.
+Act of Grandeur added.
+Winds of Bounty added.
+Chosen Sea added.
+Faewhisp added.
+Wandering Kappa added.
+Ashen Sorceress added.
+Rageleaf Dragon added.
+Tropical Griffin added.
+Sentinel Siren added.
+Bar'ryk Leviathan added.
+Infernus Altisaur added.
+Cor-Bask Rageboar added.
+Fae-Blessed Lyrist added.
+Bar'rykkian Coastwing added.
+Alyka, Bar'rykian Princess added.
+Chak'nul, Essence of Cor-Bask added.
+Worn Rapier added.
+Arcane Greataxe added.
+Armory of Many Blades added.
+Staff of Life added.
+Crackling Battle Standard added.
+Kyrtallian, Blade of Sokleth added.
+Xrk, The Antlered One added.
+Bar'ryk, the Fathomless Expanse added.
+Kret Val, Nest of Rebirth added.
+Bar'ryk, the Fathomless Expanse added.
+Cor-Bask, the Sacred Forest added.
+Ball Lightning added.
+Risen Reef added.
+
+CW04 Twinspirit Faeries removed.
+CW02 Crystalline Guardian removed.
+CW01 Watchful Crane removed.
+CW06 Ivory Corps Griffonrider removed.
+CW05 Aerial Assault Unit removed.
+CW03 Heralded Captain removed.
+CW07 Fae Bloomtender removed.
+CW08 Mischevious Wildsoul removed.
+CW09 For the Legion! removed.
+CW10 Decided Strike removed.
+CW11 Cosmic Smite removed.
+CW12 Runic Shield removed.
+CW13 One with the Cosmos removed.
+CW14 Aural Invigoration removed.
+CU01 Azure Corps Duelist removed.
+CU02 Spirit of the Mists removed.
+CU03 Merfolk Orator removed.
+CU04 Ghasthawk removed.
+CU05 Rowdy Flock removed.
+CU06 Consider removed.
+CU09 Forsee Consequences removed.
+CU08 Diplomatic Consideration removed.
+CU07 Bar'ryk Reclaims removed.
+CU10 Upon the Sea and Sky removed.
+CU11 Stray from the Group removed.
+CU12 Sparked Wits removed.
+CU14 Seafarer's Wings removed.
+CU13 Siren's Song removed.
+CB01 Decaying Spirit removed.
+CB03 Flesh-torn Hellbeast removed.
+UM01 Hellform Crocodile removed.
+CB02 Shadecrow Rooster removed.
+CB05 Blighted Faerie removed.
+CB06 Direwolf Scourge removed.
+CB07 Spirit Reap removed.
+CB08 Murder removed.
+CB09 Stoneskin Rebuke removed.
+CB10 Tragic Betrayal removed.
+CB11 Reassemble removed.
+CB12 Essence Siphon removed.
+CB13 Pact of Rebirth removed.
+CB14 Faeveil Curse removed.
+CR01 Golden Phoenix removed.
+CR02 Phoenix Hatchlings removed.
+CR03 Pyromantic Peafowl removed.
+CR04 Kindled-Spirit Wolf removed.
+CR05 Infernal Dragonkin removed.
+CR06 Lavabreacher removed.
+CR07 Pyretic Flash removed.
+CR08 Phoenix Crash removed.
+CR09 Abrade removed.
+CR10 Unbridled Fury removed.
+CR11 Stoke the Blazes removed.
+CR12 Flamebreath removed.
+CR13 Wake of Flame removed.
+CR14 Instilled Wrath removed.
+CG01 Dragonfly Nymph removed.
+CG02 Blooming Mantis removed.
+CG05 Vengeful Bramblekin removed.
+CG04 Corrupt Viviomancer removed.
+CG03 Cor-Bask Druid removed.
+CG06 Fungal Titan removed.
+CG07 Mossridge Baloth removed.
+CG08 Flytrap Monstrosity removed.
+CG09 Shield of Lilies removed.
+CG10 Cultivate removed.
+CG11 Hunt and Scavenge removed.
+UG09 Ensnaring Charm removed.
+UG13 Intimidation Technique removed.
+CG14 Bayou Nutrients removed.
+UW01 Abhorrent Elk removed.
+UW02 Glitterwing Dragoons removed.
+UW03 Ferocidon Strikeleader removed.
+UW04 Search and Rescue Unit removed.
+RW05 Path to Exile removed.
+UW07 Klysmatic Protection removed.
+UW08 Prophetic Light removed.
+UW11 Call the Spirits removed.
+UW09 The Final Stand removed.
+UW10 Spiritual Rejuvenation removed.
+UW05 Gargantuan Dawnwing removed.
+UW12 Binding Sun removed.
+UW13 Battle Preparations removed.
+UW14 Leyline Channeling removed.
+UU01 Bar'rykkian Roughrapids removed.
+UU02 Azure Corps Pikeman removed.
+UU03 Azure Corps Blademaster removed.
+UU04 Cyclone Elder removed.
+UU06 Sea No Evil removed.
+UU07 Fierce Cunning removed.
+UU08 Bar'ryk Seaform removed.
+UU09 Spiritual Uprising removed.
+UU12 Twenty Thousand Leagues removed.
+UU11 From Whence You Came removed.
+UU10 Home of the Lost removed.
+UU13 Grasp of the Goddess removed.
+UU14 Seafoam Cloaking removed.
+UB01 Bayou Knight removed.
+UB02 Guide to Nowhere removed.
+UB03 Crumbling Earth removed.
+UB04 Mak Rutan, Cardinal of Sin removed.
+UB05 Crow-keeper Wraith removed.
+UB06 Swampblood Gorger removed.
+UB07 Unpromised Tomorrows removed.
+UB08 Miasma removed.
+UB09 Trickster's Charm removed.
+UB10 Edict of Mak removed.
+UB11 Befitting Tragedy removed.
+UB12 Mind Echoes removed.
+UB13 Sacrificial Demesne removed.
+UB14 Gift of the Bayou Maiden removed.
+UR01 Floe Elemental removed.
+UR02 Kindleblade Wizard removed.
+UR03 Smoldering Charger removed.
+UR04 Vecthros, Tyrant of Riches removed.
+UR11 Involuntary Immolation removed.
+UR12 Lava Swipe removed.
+UR07 Elemental Offering removed.
+UR08 Rekindle Flames removed.
+UR10 Cathartic Reunion removed.
+UR09 Magmatic Genesis removed.
+UR06 Unbridled Assault removed.
+UR05 Simple Miscommunication removed.
+UR13 Elemental Command removed.
+UR14 Foregone Ritual removed.
+UG01 Cor-Bask Flautist removed.
+UG02 Bramblewolf removed.
+UG03 Protector of the Deep Forests removed.
+UG04 Lost Traveller removed.
+UG06 Overgrown Ridgeback removed.
+UG05 Heletcha, Oracle of Life removed.
+UG07 Rampaging Carnosaur removed.
+UG08 Ritual Strength removed.
+UG12 Stampede of Tyrants removed.
+UG10 Prey upon the Weak removed.
+UG11 Wild Brew removed.
+CG12 Collect Specimens removed.
+CG13 Nature's Wisdom removed.
+UG14 Cor-Bask Vitality removed.
+RW01 Vital Shimmerwing removed.
+RW02 Ivory Corps Lieutenant removed.
+RW03 Proud Sailback removed.
+RW04 Favor of the Wilds removed.
+UW06 Brilliant Thrust removed.
+RW06 Glimmer Stream removed.
+RW07 Bountiful Harvest removed.
+RU03 Bar'rykian Oarfish removed.
+RU02 Bar'rykian Thresher removed.
+RU01 Diving Sailback removed.
+RU04 Yield to Nothingness removed.
+RU05 Bar'ryk, the Fathomless Expanse removed.
+RU06 Fathom Multitudes removed.
+RU07 Grasp the Mind removed.
+RB01 Fen Lurker removed.
+RB02 removed.
+RB03 Ydra, Mother of Rebirth removed.
+RB04 removed.
+RB05 removed.
+RB06 removed.
+RB07 Ydra's Last Stand removed.
+RR01 Magma Jackal removed.
+RR02 Intense Aegisaur removed.
+RR03 Infernus Hellkite removed.
+RR04 removed.
+RR05 removed.
+MR02 Assured Bombardment removed.
+RR07 Vigor of Cor-Bask removed.
+RG01 removed.
+RG02 Eritah, Priestess of Cor-Bask removed.
+RG03 Cor-Bask Herdcaller removed.
+RG04 removed.
+RG05 removed.
+RG06 removed.
+RG07 removed.
+MW01 Rys Ke'fal, Crown of the Ivory Corps removed.
+MW02 Absolution removed.
+MU01 Harness Tomorrow removed.
+MU02 Alyka, Bar'rykian Princess removed.
+MB01 Shadeborne Ghast removed.
+MB02 Xrk, The Antlered One removed.
+MR01 Eruption of Kret Val removed.
+RR06 Kret Val, Nest of Rebirth removed.
+MG01 Scicleclaw Ravager removed.
+MG02 Chak'nul, Essence of Cor-Bask removed.
+RM02 The Abhorrent One removed.
+RM03 Hydratic Blade removed.
+RM01 Spirit Rider removed.
+RM03 Energize removed.
+RM02 Lyth, Kindleborn Phoenix removed.
+RM03 Resurrection of Flame removed.
+RM01 Mycelial Thrall removed.
+RM03 The Forest for the Trees removed.
+RM01 Faestone Tortoise removed.
+RM04 Manasynth Wave removed.
+RM02 Thaskar, Rage of the Sea removed.
+RM04 Seal Away removed.
+RM02 Ikthyll, Duchess of Cor-Bask removed.
+RM04 Portal to Yesterday removed.
+RM01 Magma Viper removed.
+RM04 Reborn from Ash removed.
+RM01 Mounted Merfolk removed.
+RM03 Manasynth Charge removed.
+RM02 Ol'grak, Living Forest removed.
+RM04 Controlled Burn removed.
+MM01 Klysma, Sea's Essence removed.
+MM01 Whisp, Lone Wanderer removed.
+MM01 Ryklos, Stampeding Tyrant removed.
+MM01 Ekthar, Void Phoenix removed.
+MM01 Vivlokar, Brush Drake removed.
+MM02 Blessing of the Lone Wanderer removed.
+MM02 Blessing of the Void Phoenix removed.
+MM02 Blessing of the Stampede Tyrant removed.
+MM02 Blessing of the Sea's Essence removed.
+MM02 Blessing of the Brush Drake removed.
+CA01 Heroic Catapult removed.
+CA05 Rejuvination Buddy removed.
+CA03 Etched Scythe removed.
+UA05 Quickstrike Dagger removed.
+CA04 Surveyor Golem removed.
+UA01 Jeweled Lens removed.
+UA02 Revalation Blade removed.
+CL01 Calm-Shores Passage removed.
+CL02 Steady-Climb Passage removed.
+CL03 Infernus Passage removed.
+CL04 Cragbrush Passage removed.
+CL05 Misthollow Passage removed.
+UL02 Verdant Prairie removed.
+UL04 Kindled Glen removed.
+UL01 Tidal Expanse removed.
+UL05 Accursed Aquifer removed.
+UL03 Volcanic Crypt removed.
+RL03 Altar of the Phoenix removed.
+RL05 Cathedral of Damnation removed.
+RL02 Vast Countryside removed.
+RL04 Briarthorn Ravine removed.
+UM01 Azure Corps Captain removed.
+UM02 Vrel, Avatar of Klysma removed.
+UM01 Stormghast Colossus removed.
+UM02 Gritt, Avatar of Whisp removed.
+CB04 Ferocidon Apparition removed.
+UM02 Kriz, Avatar of Ekthar removed.
+UM01 Stampede Charmer removed.
+UM02 Hork, Avatar of Ryklos removed.
+UM01 Sunbreach Griffin removed.
+UM02 Aurum, Avatar of Vivlokar removed.
+UM03 Absorb Magic removed.
+UM04 Vigor of Champions removed.
+UM03 Reckless Rampage removed.
+UM04 The Will of Whisp removed.
+UM03 Spirit Break removed.
+UM04 Kindling removed.
+UM03 Enthralling Rebirth removed.
+UM04 Herd Tactics removed.
+UM03 Act of Grandeur removed.
+UM04 Winds of Bounty removed.
+RL01 Chosen Sea removed.
+CM02 Faewhisp removed.
+CM01 Wandering Kappa removed.
+CM01 Ashen Sorceress removed.
+CM01 Rageleaf Dragon removed.
+CM02 Tropical Griffin removed.
+CM01 Sentinel Siren removed.
+CM02 Bar'ryk Leviathan removed.
+CM02 Infernus Altisaur removed.
+CM02 Cor-Bask Rageboar removed.
+CM01 Fae-Blessed Lyrist removed.
+UU05 Bar'rykkian Coastwing removed.
+UA04 Worn Rapier removed.
+UA03 Arcane Greataxe removed.
+RA02 Armory of Many Blades removed.
+CA02 Staff of Life removed.
+RA01 Crackling Battle Standard removed.
+MA01 Kyrtallian, Blade of Sokleth removed.
+
+Alyka, Bar'rykian Princess
+type: Emblem => Legendary Planeswalker — Alyka
+cost:  => {1}{U}{U}
+rules_text: Creatures you control get +X/+0, where X is the number of creature cards in your graveyard => [+1]: Surveil 2.
+[-3]: Draw three cards, then discard two cards.
+[-8]: You get an emblem with “Creatures you control get +X/+0, where X is the number of creature cards in your graveyard.”
+special_text:  => [+1]: Surveil 2.
+[-3]: Draw three cards, then discard two cards.
+[-8]: You get an emblem with “Creatures you control get +X/+0, where X is the number of creature cards in your graveyard.”
+loyalty:  => 4
+
+Xrk, The Antlered One
+type: Emblem => Legendary Planeswalker — Xrk
+cost:  => {2}{B}{B}
+rules_text: Whenever a creature dies, each opponent loses 2 life and you gain 2 life. If it wasn't a token, create a 2/2 red Elemental creature token. => [+1]: Draw a card and you lose 1 life.
+[-3]: Each player sacrifices a creature. If you sacrificed a permanent this way, return another target creature from your graveyard to the battlefield.
+[-8]: You get an emblem with “Whenever a creature dies, each opponent loses 2 life and you gain 2 life. If it wasn't a token, create a 2/2 red Elemental creature token.”
+special_text:  => [+1]: Draw a card and you lose 1 life.
+[-3]: Each player sacrifices a creature. If you sacrificed a permanent this way, return another target creature from your graveyard to the battlefield.
+[-8]: You get an emblem with “Whenever a creature dies, each opponent loses 2 life and you gain 2 life. If it wasn't a token, create a 2/2 red Elemental creature token.”
+loyalty:  => 4
+
+Chak'nul, Essence of Cor-Bask
+type: Emblem => Legendary Planeswalker — Chak'nul
+cost:  => {2}{G}{G}
+rules_text: Creatures you control get +3/+3 and have trample. => [+2]: Create a 2/2 green Elemental creature token.
+[-3]: Put a +1/+1 counter on target creature you control. It fights target creature you don't control.
+[-8]: You gain 3 life for each creature you control and get an emblem with “Creatures you control get +3/+3 and have trample.”
+special_text:  => [+2]: Create a 2/2 green Elemental creature token.
+[-3]: Put a +1/+1 counter on target creature you control. It fights target creature you don't control.
+[-8]: You gain 3 life for each creature you control and get an emblem with “Creatures you control get +3/+3 and have trample.”
+loyalty:  => 4
+
+Ashes
+
+Elemental3
+
+Faerie
+
+Spirit2
+
+Spirit3
+
+Snake
+
+Elemental4
+
+Elemental5
+
+Elemental2
+
+Treasure
+
+Elemental1
+
+Spirit1
+
+Mulldrifter
+
+Shriekmaw
+
+Avenger of Zendikar
+
+Omnath, Locus of the Roil
+
+Elemental6
+
+Weapon
+
+Briarhorn
+
+Animar, Soul of Elements
+
+
+VERSION 6 CHANGELOG
 ====================
 
 
