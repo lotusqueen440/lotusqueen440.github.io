@@ -19,7 +19,21 @@ def convertList(setCode):
 		raw = json.load(f)
 	cards = raw['cards']
 
-	
+	#F: array of cards to skip
+	skipdex = []
+	#CE: array of special sort groups
+	sort_groups = []
+	#F: This gets any alt-arts in a single set and adds their card number to a list of cards to skip.
+	#CE: And also appends all available groups to the set
+	for i in range(len(cards)):
+		match = re.search(r'!group ([^ \n]+)', cards[i]['notes'])
+		if match and match.group() not in sort_groups:
+			sort_groups.append(match.group())
+		if "token" in cards[i]['shape'] or "Basic" in cards[i]['type']:
+			continue
+		for j in range(i):
+			if cards[i]['card_name'] == cards[j]['card_name'] and "token" not in cards[j]['shape'] and "Basic" not in cards[j]['type']:
+				skipdex.append(cards[j]['number'])
 
 	final_list = []
 	cards_mono = []
