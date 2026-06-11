@@ -1,4 +1,624 @@
-﻿VERSION 7 CHANGELOG
+﻿VERSION 8 CHANGELOG
+====================
+
+Ashes_c02_SKL added.
+Elemental_rg44_SKL added.
+Faerie_w11_SKL added.
+Spirit_u01_SKL added.
+Spirit_ub11_SKL added.
+Snake_g11_SKL added.
+Elemental_br11_SKL added.
+Elemental_wu22_SKL added.
+Elemental_r22_SKL added.
+Treasure_SKL added.
+Elemental_u21_SKL added.
+Spirit_w11_SKL added.
+EMB_Alyka_SKL added.
+EMB_Chaknul_SKL added.
+Elemental_g22_SKL added.
+Weapon_SKL added.
+EMB_Xrk_SKL added.
+Bramblethorn Hide added.
+Magmatic Flow added.
+Barricade of Reflection added.
+Ivory Corps Blade added.
+Oath of Silence added.
+Wayfarer's Shrine added.
+Ocean Monastery added.
+Timber Range added.
+Amber Hills added.
+Floodwater Depths added.
+Shardstone Rift added.
+
+Path to Exile removed.
+Bountiful Harvest removed.
+Ashes removed.
+Elemental3 removed.
+Faerie removed.
+Spirit2 removed.
+Spirit3 removed.
+Snake removed.
+Elemental4 removed.
+Elemental5 removed.
+Elemental2 removed.
+Treasure removed.
+Elemental1 removed.
+Spirit1 removed.
+Alyka, Bar'rykian Princess removed.
+Chak'nul, Essence of Cor-Bask removed.
+Elemental6 removed.
+Weapon removed.
+Xrk, The Antlered One removed.
+Kret Val, Nest of Rebirth removed.
+Bar'ryk, the Fathomless Expanse removed.
+Cor-Bask, the Sacred Forest removed.
+
+Twinspirit Faeries
+
+Crystalline Guardian
+rules_text: At the beginning of each opponent's combat phase, tap target creature that player controls. => At the beginning of your combat phase, tap target creature an opponent controls.
+pt: 1/3 => 1/2
+
+Watchful Crane
+rules_text: Flying
+This creature has vigilance if you control another modified creature. [i](Equipment, Auras you control, and counters are modifications.)[/i] => Flying
+This creature has vigilance as long as you control another modified creature. [i](Equipment, Auras you control, and counters are modifications.)[/i]
+
+Aerial Assault Unit
+rules_text: Flying
+When this creature enters, tap up to one target creature without flying.
+Basic landcycling {2W} [i]({2W}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+When this creature enters, tap up to one target creature without flying.
+pt: 3/4 => 3/3
+
+Fae Bloomtender
+rules_text: Flying
+Whenever a player casts a creature spell, you may gain 1 life. => Flying
+Whenever another creature enters, you may gain 1 life.
+
+For the Legion!
+cost: {2}{W}{W} => {2}{W}
+rules_text: Creatures you control get +2/+0 and gain trample and vigilance until end of turn. => Creatures you control get +2/+0 and gain vigilance until end of turn.
+
+Cosmic Smite
+rules_text: Destroy target tapped creature. 
+[i]Infusion[/i] — If you gained life this turn, exile that creature instead and draw a card. => Destroy target tapped creature. 
+[i]Infusion[/i] — Exile that creature instead and draw a card if you gained life this turn.
+
+One with the Cosmos
+cost: {2}{W} => {1}{W}
+
+Spirit of the Mists
+cost: {U}{U} => {U}
+rules_text: When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i] => Exalted [i](Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)[/i]
+When this creature enters, surveil 1. [i](Look at the top card of your library. You may put it into your graveyard.)[/i]
+pt: 2/1 => 1/1
+
+Ghasthawk
+rules_text: Flying
+When this creature enters, return target creature an opponent controls to its owner's hand.
+Basic landcycling {2U} [i]({2U}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Flying
+When this creature enters, return target creature an opponent controls to its owner's hand.
+
+Stray from the Group
+
+Siren's Song
+rules_text: Enchant creature
+Enchanted creature loses all abilities and is a 1/1 white Human. [i](It loses all other colors and types.)[/i] => Enchant creature
+Enchanted creature loses all abilities and is a white Human creature with base power and toughness 1/1. [i](It loses all other card types and creature types.)[/i]
+
+Hellform Crocodile
+
+Blighted Faerie
+rules_text: Reach
+When this creature enters, destroy target nonblack creature that was dealt damage this turn.
+Basic landcycling {2B} [i]({2B}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Reach
+When this creature enters, destroy target nonblack creature that was dealt damage this turn.
+
+Murder
+
+Tragic Betrayal
+
+Essence Siphon
+
+Golden Phoenix
+
+Kindled-Spirit Wolf
+
+Infernal Dragonkin
+
+Lavabreacher
+rules_text: When this creature enters, you may sacrifice another Elemental. If you do, this creature deals 2 damage to any target.
+Basic landcycling {2R} [i]({2R}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => When this creature enters, you may sacrifice another Elemental. If you do, this creature deals 2 damage to any target.
+
+Pyretic Flash
+
+Phoenix Crash
+
+Abrade
+
+Stoke the Blazes
+
+Flamebreath
+
+Mossridge Baloth
+rules_text: Trample
+When this creature enters, gain 3 life.
+Basic landcycling {2G} [i]({2G}, Discard this card: Search your library for a basic land card, reveal it, put it into your hand, then shuffle.)[/i] => Trample
+When this creature enters, gain 3 life.
+
+Ensnaring Charm
+
+Glitterwing Dragoons
+
+Klysmatic Protection
+
+Prophetic Light
+
+Call the Spirits
+rules_text: Create three 1/1 white Spirit creature tokens.
+[i]Infusion[/i] — If you gained life this turn, put a +1/+1 counter on each of those tokens. => Create three 1/1 white Spirit creature tokens.
+[i]Infusion[/i] — Put a +1/+1 counter on each of those tokens if you gained life this turn.
+
+The Final Stand
+
+Spiritual Rejuvenation
+
+Gargantuan Dawnwing
+rules_text: Flying
+[i]Infusion[/i] — When this creature enters, if you gained life this turn, tap up to two target creatures without flying. => Flying
+[i]Infusion[/i] — When this creature enters, tap up to two target creatures without flying if you gained life this turn.
+
+Binding Sun
+
+Battle Preparations
+
+Leyline Channeling
+
+Bar'rykkian Roughrapids
+
+Azure Corps Pikeman
+
+Azure Corps Blademaster
+rules_text: Whenever this creature deals combat damage to a player, draw a card.
+{3}: Create a Weapon token. [i](It's an Equipment with equip {2} and “Equipped creature gets +1/+1.”)[/i] => Whenever this creature deals combat damage to a player, draw a card.
+{3}: Create a Weapon token and attach it to target creature you control. [i](It's an Equipment with equip {2} and “Equipped creature gets +1/+1.”)[/i]
+
+Cyclone Elder
+
+Sea No Evil
+
+Fierce Cunning
+
+Bar'ryk Seaform
+
+Spiritual Uprising
+
+Twenty Thousand Leagues
+
+From Whence You Came
+
+Home of the Lost
+cost: {1}{U}{U} => {1}{U}
+
+Grasp of the Goddess
+rules_text: Enchant creature
+Enchanted creature gets +2/+4 and is a Merfolk in addition to its other types.
+When enchanted creature dies, if you control another Merfolk, return this Aura to your hand. => Enchant creature
+Enchanted creature gets +2/+4.
+When enchanted creature dies, return this Aura to your hand.
+
+Seafoam Cloaking
+
+Bayou Knight
+
+Guide to Nowhere
+
+Crumbling Earth
+
+Mak Rutan, Cardinal of Sin
+
+Crow-keeper Wraith
+
+Swampblood Gorger
+
+Unpromised Tomorrows
+
+Miasma
+
+Trickster's Charm
+
+Edict of Mak
+
+Befitting Tragedy
+rules_text: Destroy target creature with power 3 or less. Its controller draws a card. => Destroy target creature with power 3 or less.
+
+Mind Echoes
+
+Sacrificial Demesne
+
+Gift of the Bayou Maiden
+
+Floe Elemental
+
+Kindleblade Wizard
+
+Smoldering Charger
+
+Vecthros, Tyrant of Riches
+
+Involuntary Immolation
+
+Lava Swipe
+
+Elemental Offering
+cost: {2}{R} => {1}{R}
+
+Rekindle Flames
+
+Cathartic Reunion
+
+Magmatic Genesis
+
+Unbridled Assault
+
+Simple Miscommunication
+
+Elemental Command
+
+Foregone Ritual
+
+Cor-Bask Flautist
+
+Bramblewolf
+
+Protector of the Deep Forests
+
+Lost Traveller
+
+Overgrown Ridgeback
+
+Heletcha, Oracle of Life
+
+Rampaging Carnosaur
+
+Ritual Strength
+
+Stampede of Tyrants
+
+Prey upon the Weak
+
+Wild Brew
+
+Collect Specimens
+
+Nature's Wisdom
+
+Cor-Bask Vitality
+
+Vital Shimmerwing
+
+Ivory Corps Lieutenant
+
+Proud Sailback
+rules_text: Vigilance, trample
+[i]Infusion[/i] — Whenever this creature or another creature you control enters, other creatures you control get +1/+1 until end of turn if you gained life this turn. => Vigilance, trample
+Whenever this creature or another creature you control enters, creatures you control get +1/+1 until end of turn.
+Whenever you gain life, put a +1/+1 counter on target creature you control.
+
+Favor of the Wilds
+
+Brilliant Thrust
+cost: {2}{W} => {1}{W}
+
+Glimmer Stream
+
+Bar'rykian Oarfish
+
+Bar'rykian Thresher
+
+Diving Sailback
+rules_text: Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever this creature attacks, target creature you control gains skulk until end of turn. => Skulk [i](This creature can't be blocked by creatures with greater power.)[/i]
+Whenever this creature deals combat damage to a player, draw two cards, then discard a card. If a land card was discarded this way, each opponent discards a card.
+
+Yield to Nothingness
+
+Fathom Multitudes
+
+Grasp the Mind
+
+Fen Lurker
+rules_text: When this creature enters, you may discard a creature card. If you do, draw a card and put a menace counter on this creature.
+Lands you control are Swamps in addition to their other land types. => First strike
+When this creature enters, you may discard a creature card. If you do, draw a card and put a menace counter on this creature.
+
+Knight of Fallen Dreams
+
+Ydra, Mother of Rebirth
+
+Premature Desolation
+
+Altar of Offerings
+
+Cruel Devastation
+
+Ydra's Last Stand
+
+Magma Jackal
+
+Intense Aegisaur
+
+Infernus Hellkite
+
+Manipulate Tempest
+
+Crucible of Chaos
+
+Assured Bombardment
+
+Vigor of Cor-Bask
+
+Corgoyf
+
+Eritah, Priestess of Cor-Bask
+
+Cor-Bask Herdcaller
+
+Kindly Treeheart
+rules_text: Trample, lifelink
+Whenever this creature attacks, look at the top two cards of your library. you may reveal a creature card from among them and put it into your hand. Put the rest on the bottom in a random order => Trample, lifelink
+Whenever this creature attacks, look at the top two cards of your library. you may reveal a creature card from among them and put it into your hand. Put the rest on the bottom in a random order.
+
+Grand Regisaur
+
+Verdant Bloom
+
+Rys Ke'fal, Crown of the Ivory Corps
+
+Absolution
+
+Harness Tomorrow
+
+Alyka, Bar'rykian Princess
+
+Shadeborne Ghast
+
+Xrk, The Antlered One
+
+Eruption of Kret Val
+
+Scicleclaw Ravager
+
+Chak'nul, Essence of Cor-Bask
+
+The Abhorrent One
+
+Hydratic Blade
+
+Spirit Rider
+
+Energize
+
+Lyth, Kindleborn Phoenix
+
+Resurrection of Flame
+
+Mycelial Thrall
+
+The Forest for the Trees
+
+Faestone Tortoise
+
+Manasynth Wave
+
+Thaskar, Rage of the Sea
+
+Seal Away
+
+Ikthyll, Duchess of Cor-Bask
+
+Portal to Yesterday
+
+Magma Viper
+
+Reborn from Ash
+
+Mounted Merfolk
+
+Manasynth Charge
+
+Ol'grak, Living Forest
+
+Controlled Burn
+
+Klysma, Sea's Essence
+
+Whisp, Lone Wanderer
+
+Ryklos, Stampeding Tyrant
+
+Ekthar, Void Phoenix
+
+Vivlokar, Brush Drake
+
+Blessing of the Lone Wanderer
+
+Blessing of the Void Phoenix
+
+Blessing of the Stampede Tyrant
+
+Blessing of the Sea's Essence
+
+Blessing of the Brush Drake
+
+Heroic Catapult
+
+Rejuvination Buddy
+
+Etched Scythe
+
+Quickstrike Dagger
+
+Surveyor Golem
+
+Jeweled Lens
+
+Revalation Blade
+
+Calm-Shores Passage
+rules_text: This land enters tapped.
+When this land enters, put a land you control on the bottom of your library.
+{T}: Add {W}{U}. => This land enters tapped.
+{T}: Add {W} or {U}.
+{1}, {T}: Add {W}{U}.
+
+Steady-Climb Passage
+rules_text: This land enters tapped.
+When this land enters, put a land you control on the bottom of your library.
+{T}: Add {G}{W}. => This land enters tapped.
+{T}: Add {G} or {W}.
+{1}, {T}: Add {G}{W}.
+
+Infernus Passage
+rules_text: This land enters tapped.
+When this land enters, put a land you control on the bottom of your library.
+{T}: Add {B}{R}. => This land enters tapped.
+{T}: Add {B} or {R}.
+{1}, {T}: Add {B}{R}.
+
+Cragbrush Passage
+rules_text: This land enters tapped.
+When this land enters, put a land you control on the bottom of your library.
+{T}: Add {R}{G}. => This land enters tapped.
+{T}: Add {R} or {G}.
+{1}, {T}: Add {R}{G}.
+
+Misthollow Passage
+rules_text: This land enters tapped.
+When this land enters, put a land you control on the bottom of your library.
+{T}: Add {U}{B}. => This land enters tapped.
+{T}: Add {U} or {B}.
+{1}, {T}: Add {U}{B}.
+
+Verdant Prairie
+
+Kindled Glen
+
+Tidal Expanse
+
+Accursed Aquifer
+
+Volcanic Crypt
+
+Altar of the Phoenix
+
+Cathedral of Damnation
+
+Vast Countryside
+
+Briarthorn Ravine
+
+Azure Corps Captain
+
+Vrel, Avatar of Klysma
+
+Stormghast Colossus
+
+Gritt, Avatar of Whisp
+
+Ferocidon Apparition
+
+Kriz, Avatar of Ekthar
+
+Stampede Charmer
+
+Hork, Avatar of Ryklos
+
+Sunbreach Griffin
+
+Aurum, Avatar of Vivlokar
+
+Absorb Magic
+
+Vigor of Champions
+
+Reckless Rampage
+
+The Will of Whisp
+
+Spirit Break
+
+Kindling
+
+Enthralling Rebirth
+
+Herd Tactics
+
+Act of Grandeur
+
+Winds of Bounty
+
+Chosen Sea
+
+Faewhisp
+
+Wandering Kappa
+
+Ashen Sorceress
+
+Rageleaf Dragon
+
+Tropical Griffin
+
+Sentinel Siren
+
+Bar'ryk Leviathan
+
+Infernus Altisaur
+
+Cor-Bask Rageboar
+
+Fae-Blessed Lyrist
+
+Bar'rykkian Coastwing
+
+Mulldrifter
+
+Shriekmaw
+
+Avenger of Zendikar
+
+Omnath, Locus of the Roil
+
+Worn Rapier
+
+Arcane Greataxe
+
+Armory of Many Blades
+
+Staff of Life
+
+Crackling Battle Standard
+
+Kyrtallian, Blade of Sokleth
+
+Briarhorn
+
+Animar, Soul of Elements
+
+Kret Val, Nest of Rebirth
+
+Bar'ryk, the Fathomless Expanse
+
+Cor-Bask, the Sacred Forest
+
+Ball Lightning
+
+Risen Reef
+
+
+VERSION 7 CHANGELOG
 ====================
 
 Twinspirit Faeries added.
